@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Workout Detail</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: #f5f5f5;
+      padding: 1rem;
+      margin: 0;
+      line-height: 1.6;
+    }
+    
+    .header {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      margin-bottom: 1.5rem;
+    }
+    
+    .back-link {
+      display: inline-block;
+      margin-bottom: 1rem;
+      color: #3498db;
+      text-decoration: none;
+      font-weight: 500;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      background: #e8f4f8;
+      transition: background 0.2s;
+    }
+    
+    .back-link:hover {
+      background: #3498db;
+      color: white;
+    }
+    
+    h1 {
+      color: #2c3e50;
+      margin: 0;
+      font-size: 2rem;
+    }
+    
+    .workout-meta {
+      color: #7f8c8d;
+      margin-top: 0.5rem;
+    }
+    
+    .loading {
+      text-align: center;
+      padding: 2rem;
+      color: #7f8c8d;
+      font-size: 1.1rem;
+    }
+    
+    .section {
+      background: #fff;
+      padding: 2rem;
+      margin-bottom: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    
+    .section h2 {
+      color: #34495e;
+      margin-top: 0;
+      margin-bottom: 1rem;
+      font-size: 1.5rem;
+    }
+    
+    .section-note {
+      background: #fff3cd;
+      color: #856404;
+      padding: 1rem;
+      border-radius: 6px;
+      margin-bottom: 1.5rem;
+      font-size: 0.9rem;
+      line-height: 1.4;
+    }
+    
+    .exercise-item {
+      margin-bottom: 2rem;
+      padding: 1.5rem;
+      border: 1px solid #e9ecef;
+      border-radius: 8px;
+      background: #ffffff;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+    
+    .exercise-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+    
+    .exercise-image {
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-right: 1rem;
+      flex-shrink: 0;
+    }
+    
+    .exercise-info h3 {
+      margin: 0;
+      color: #2c3e50;
+      font-size: 1.3rem;
+    }
+    
+    .exercise-meta {
+      color: #7f8c8d;
+      font-size: 0.9rem;
+      margin-top: 0.5rem;
+    }
+    
+    .sets-info {
+      display: flex;
+      gap: 0.5rem;
+      margin: 1rem 0;
+      flex-wrap: wrap;
+    }
+    
+    .set-item {
+      background: #3498db;
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      font-weight: 500;
+      white-space: nowrap;
+    }
+    
+    .instructions {
+      margin-top: 1rem;
+    }
+    
+    .instructions h4 {
+      margin: 0.5rem 0;
+      color: #34495e;
+      font-size: 1.1rem;
+    }
+    
+    .instructions ol {
+      margin: 0.5rem 0;
+      padding-left: 1.5rem;
+    }
+    
+    .instructions li {
+      margin: 0.5rem 0;
+      color: #5d6d7e;
+      line-height: 1.5;
+    }
+    
+    .video-link {
+      display: inline-block;
+      background: #e74c3c;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 500;
+      margin-top: 1rem;
+      transition: background 0.2s;
+    }
+    
+    .video-link:hover {
+      background: #c0392b;
+      color: white;
+      text-decoration: none;
+    }
+    
+    .error {
+      background: #f8d7da;
+      color: #721c24;
+      padding: 1rem;
+      border-radius: 8px;
+      margin: 1rem 0;
+      text-align: center;
+    }
+    
+    .no-exercises {
+      text-align: center;
+      color: #7f8c8d;
+      padding: 2rem;
+      font-style: italic;
+    }
+    
+    @media (max-width: 768px) {
+      .exercise-header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      
+      .exercise-image {
+        width: 80px;
+        height: 80px;
+        margin-bottom: 1rem;
+        margin-right: 0;
+      }
+      
+      .sets-info {
+        flex-direction: column;
+        gap: 0.25rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <a href="javascript:history.back()" class="back-link">← Back to Program</a>
+    <h1 id="workout-title">
+      <div class="loading">Loading workout...</div>
+    </h1>
+    <div id="workout-meta" class="workout-meta"></div>
+  </div>
+  
+  <div id="workout-sections"></div>
+
+  <script>
+    async function loadWorkout() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const programId = urlParams.get('program');
+      const workoutId = urlParams.get('workout');
+      const weekIndex = parseInt(urlParams.get('week') || '0');
+      const dayIndex = parseInt(urlParams.get('day') || '0');
+
+      if (!programId || !workoutId) {
+        document.getElementById('workout-title').innerHTML = 'Workout not found';
+        return;
+      }
+
+      try {
+        const res = await fetch(`./output/program_${programId}.json`);
+        const data = await res.json();
+
+        // Find the specific workout
+        let workout = null;
+        if (data.weeks_data && data.weeks_data[weekIndex] && 
+            data.weeks_data[weekIndex].days && data.weeks_data[weekIndex].days[dayIndex]) {
+          const day = data.weeks_data[weekIndex].days[dayIndex];
+          workout = day.workouts.find(w => w.id === workoutId);
+        }
+
+        if (!workout) {
+          document.getElementById('workout-title').innerHTML = 'Workout not found';
+          return;
+        }
+
+        // Update header
+        document.getElementById('workout-title').innerText = workout.title || 'Workout';
+        document.getElementById('workout-meta').innerHTML = `
+          <strong>Program:</strong> ${data.name} | 
+          <strong>Week:</strong> ${weekIndex + 1} | 
+          <strong>Day:</strong> ${dayIndex + 1} | 
+          <strong>Exercises:</strong> ${workout.number_of_exercises || 'N/A'}
+        `;
+
+        // Render workout sections
+        const container = document.getElementById('workout-sections');
+        container.innerHTML = renderWorkoutSections(workout);
+
+      } catch (error) {
+        console.error('Error loading workout:', error);
+        document.getElementById('workout-title').innerText = 'Error loading workout';
+        document.getElementById('workout-sections').innerHTML = '<div class="error">Error loading workout data. Please try again.</div>';
+      }
+    }
+
+    function renderWorkoutSections(workout) {
+      if (!workout.details || !workout.details.sections) {
+        return '<div class="no-exercises">No workout details available.</div>';
+      }
+
+      let html = '';
+      
+      workout.details.sections.forEach((section, sectionIndex) => {
+        if (section.type === 'workout') {
+          html += `<div class="section">`;
+          
+          if (section.title) {
+            html += `<h2>${section.title}</h2>`;
+          }
+          
+          if (section.note) {
+            html += `<div class="section-note">${section.note.replace(/\n/g, '<br>')}</div>`;
+          }
+
+          let hasExercises = false;
+
+          // Handle exercise_references (warm-up exercises)
+          if (section.exercise_references && section.exercise_references.length > 0) {
+            section.exercise_references.forEach((exercise) => {
+              html += renderExercise(exercise, null, false);
+              hasExercises = true;
+            });
+          }
+
+          // Handle regular exercises
+          if (section.exercises && section.exercises.length > 0) {
+            section.exercises.forEach((exerciseGroup) => {
+              if (exerciseGroup.supersets && exerciseGroup.supersets.length > 0) {
+                exerciseGroup.supersets.forEach((superset) => {
+                  html += renderExercise(superset.exercise, superset.training_sets, superset.each_side);
+                  hasExercises = true;
+                });
+              }
+            });
+          }
+
+          if (!hasExercises) {
+            html += '<div class="no-exercises">No exercises found in this section.</div>';
+          }
+
+          html += `</div>`;
+        }
+      });
+
+      return html || '<div class="no-exercises">No exercises found in this workout.</div>';
+    }
+
+    function renderExercise(exercise, trainingSets, eachSide) {
+      if (!exercise) return '';
+
+      let html = `<div class="exercise-item">`;
+      
+      // Exercise header with image and title
+      html += `<div class="exercise-header">`;
+      
+      const imageUrl = exercise.thumbnail_url || exercise.preview_300 || (exercise.picture && exercise.picture[0]) || '';
+      if (imageUrl) {
+        html += `<img src="${imageUrl}" alt="${exercise.title}" class="exercise-image" onerror="this.style.display='none'">`;
+      }
+      
+      html += `<div class="exercise-info">`;
+      html += `<h3>${exercise.title || 'Exercise'}</h3>`;
+      html += `<div class="exercise-meta">`;
+      if (exercise.body_part) html += `<span><strong>Target:</strong> ${exercise.body_part}</span>`;
+      if (exercise.category_type_name) html += `<span> | <strong>Type:</strong> ${exercise.category_type_name}</span>`;
+      if (eachSide) html += `<span> | <strong>Each Side</strong></span>`;
+      html += `</div>`;
+      html += `</div>`;
+      html += `</div>`;
+
+      // Sets and reps information
+      if (trainingSets && trainingSets.length > 0) {
+        html += `<div class="sets-info">`;
+        trainingSets.forEach((set, setIndex) => {
+          const reps = set.reps?.value || 'N/A';
+          const rest = set.rest?.value || '';
+          html += `<div class="set-item">Set ${setIndex + 1}: ${reps} reps${rest ? ` (${rest} rest)` : ''}</div>`;
+        });
+        html += `</div>`;
+      }
+
+      // Instructions
+      if (exercise.instructions && exercise.instructions.length > 0) {
+        html += `<div class="instructions">`;
+        html += `<h4>Instructions:</h4>`;
+        html += `<ol>`;
+        exercise.instructions.forEach((instruction) => {
+          html += `<li>${instruction}</li>`;
+        });
+        html += `</ol>`;
+        html += `</div>`;
+      }
+
+      // Video link
+      if (exercise.videoLink) {
+        html += `<a href="${exercise.videoLink}" target="_blank" class="video-link">📹 Watch Video</a>`;
+      }
+
+      html += `</div>`;
+      return html;
+    }
+
+    loadWorkout();
+  </script>
+</body>
+</html> 
