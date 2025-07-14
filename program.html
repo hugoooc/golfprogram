@@ -90,6 +90,138 @@
       color: #5d6d7e;
     }
     
+    .workout-detail {
+      margin-top: 1rem;
+      padding: 1.5rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    
+    .exercise-item {
+      margin-bottom: 2rem;
+      padding: 1rem;
+      border: 1px solid #e9ecef;
+      border-radius: 8px;
+      background: #ffffff;
+    }
+    
+    .exercise-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+    
+    .exercise-image {
+      width: 80px;
+      height: 80px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-right: 1rem;
+    }
+    
+    .exercise-info h5 {
+      margin: 0;
+      color: #2c3e50;
+      font-size: 1.2rem;
+    }
+    
+    .exercise-meta {
+      color: #7f8c8d;
+      font-size: 0.9rem;
+      margin-top: 0.25rem;
+    }
+    
+    .sets-info {
+      display: flex;
+      gap: 1rem;
+      margin: 1rem 0;
+      padding: 0.5rem;
+      background: #f8f9fa;
+      border-radius: 6px;
+    }
+    
+    .set-item {
+      background: #3498db;
+      color: white;
+      padding: 0.25rem 0.75rem;
+      border-radius: 4px;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+    
+    .instructions {
+      margin-top: 1rem;
+    }
+    
+    .instructions h6 {
+      margin: 0.5rem 0;
+      color: #34495e;
+      font-size: 1rem;
+    }
+    
+    .instructions ol {
+      margin: 0.5rem 0;
+      padding-left: 1.5rem;
+    }
+    
+    .instructions li {
+      margin: 0.5rem 0;
+      color: #5d6d7e;
+      line-height: 1.4;
+    }
+    
+    .video-link {
+      display: inline-block;
+      background: #e74c3c;
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 500;
+      margin-top: 0.5rem;
+    }
+    
+    .video-link:hover {
+      background: #c0392b;
+      color: white;
+      text-decoration: none;
+    }
+    
+    .section-note {
+      background: #fff3cd;
+      color: #856404;
+      padding: 1rem;
+      border-radius: 6px;
+      margin-bottom: 1rem;
+      font-size: 0.9rem;
+      line-height: 1.4;
+    }
+    
+    .toggle-workout {
+      background: #3498db;
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      margin-top: 0.5rem;
+    }
+    
+    .toggle-workout:hover {
+      background: #2980b9;
+    }
+    
+    .workout-content {
+      display: none;
+      margin-top: 1rem;
+    }
+    
+    .workout-content.show {
+      display: block;
+    }
+    
     .level-badge {
       display: inline-block;
       padding: 0.25rem 0.75rem;
@@ -230,10 +362,19 @@
                   day.workouts.forEach((workout) => {
                     const workoutDiv = document.createElement('div');
                     workoutDiv.className = 'exercise';
+                    
+                    const workoutId = `workout-${weekIndex}-${dayIndex}-${workout.id}`;
+                    
                     workoutDiv.innerHTML = `
                       <h4>${workout.title || 'Workout'}</h4>
-                      <p><strong>Number of exercises:</strong> ${workout.number_of_exercises || 'N/A'}</p>
+                      <p><strong>Exercises:</strong> ${workout.number_of_exercises || 'N/A'}</p>
                       ${workout.description ? `<p>${workout.description}</p>` : ''}
+                      <button class="toggle-workout" onclick="toggleWorkout('${workoutId}')">
+                        Show Workout Details
+                      </button>
+                      <div id="${workoutId}" class="workout-content">
+                        ${renderWorkoutDetails(workout)}
+                      </div>
                     `;
                     weekDiv.appendChild(workoutDiv);
                   });
@@ -254,6 +395,118 @@
         console.error('Error loading program:', error);
         document.getElementById('program-title').innerText = 'Error loading program';
         document.getElementById('sections').innerHTML = '<div class="error">Error loading program data. Please check the program ID and try again.</div>';
+      }
+    }
+
+    function renderWorkoutDetails(workout) {
+      if (!workout.details || !workout.details.sections) {
+        return '<p>No workout details available.</p>';
+      }
+
+      let html = '';
+      
+      workout.details.sections.forEach((section, sectionIndex) => {
+        if (section.type === 'workout') {
+          html += `<div class="workout-detail">`;
+          
+          if (section.title) {
+            html += `<h4>${section.title}</h4>`;
+          }
+          
+          if (section.note) {
+            html += `<div class="section-note">${section.note.replace(/\n/g, '<br>')}</div>`;
+          }
+
+          // Handle exercise_references (warm-up exercises)
+          if (section.exercise_references && section.exercise_references.length > 0) {
+            section.exercise_references.forEach((exercise) => {
+              html += renderExercise(exercise, null, true);
+            });
+          }
+
+          // Handle regular exercises
+          if (section.exercises && section.exercises.length > 0) {
+            section.exercises.forEach((exerciseGroup) => {
+              if (exerciseGroup.supersets && exerciseGroup.supersets.length > 0) {
+                exerciseGroup.supersets.forEach((superset) => {
+                  html += renderExercise(superset.exercise, superset.training_sets, superset.each_side);
+                });
+              }
+            });
+          }
+
+          html += `</div>`;
+        }
+      });
+
+      return html || '<p>No exercises found in this workout.</p>';
+    }
+
+    function renderExercise(exercise, trainingSets, eachSide) {
+      if (!exercise) return '';
+
+      let html = `<div class="exercise-item">`;
+      
+      // Exercise header with image and title
+      html += `<div class="exercise-header">`;
+      
+      const imageUrl = exercise.thumbnail_url || exercise.preview_300 || (exercise.picture && exercise.picture[0]) || '';
+      if (imageUrl) {
+        html += `<img src="${imageUrl}" alt="${exercise.title}" class="exercise-image" onerror="this.style.display='none'">`;
+      }
+      
+      html += `<div class="exercise-info">`;
+      html += `<h5>${exercise.title || 'Exercise'}</h5>`;
+      html += `<div class="exercise-meta">`;
+      if (exercise.body_part) html += `<span><strong>Target:</strong> ${exercise.body_part}</span>`;
+      if (exercise.category_type_name) html += `<span> | <strong>Type:</strong> ${exercise.category_type_name}</span>`;
+      if (eachSide) html += `<span> | <strong>Each Side</strong></span>`;
+      html += `</div>`;
+      html += `</div>`;
+      html += `</div>`;
+
+      // Sets and reps information
+      if (trainingSets && trainingSets.length > 0) {
+        html += `<div class="sets-info">`;
+        trainingSets.forEach((set, setIndex) => {
+          const reps = set.reps?.value || 'N/A';
+          const rest = set.rest?.value || '';
+          html += `<div class="set-item">Set ${setIndex + 1}: ${reps} reps${rest ? ` (${rest} rest)` : ''}</div>`;
+        });
+        html += `</div>`;
+      }
+
+      // Instructions
+      if (exercise.instructions && exercise.instructions.length > 0) {
+        html += `<div class="instructions">`;
+        html += `<h6>Instructions:</h6>`;
+        html += `<ol>`;
+        exercise.instructions.forEach((instruction) => {
+          html += `<li>${instruction}</li>`;
+        });
+        html += `</ol>`;
+        html += `</div>`;
+      }
+
+      // Video link
+      if (exercise.videoLink) {
+        html += `<a href="${exercise.videoLink}" target="_blank" class="video-link">📹 Watch Video</a>`;
+      }
+
+      html += `</div>`;
+      return html;
+    }
+
+    function toggleWorkout(workoutId) {
+      const content = document.getElementById(workoutId);
+      const button = content.previousElementSibling;
+      
+      if (content.classList.contains('show')) {
+        content.classList.remove('show');
+        button.textContent = 'Show Workout Details';
+      } else {
+        content.classList.add('show');
+        button.textContent = 'Hide Workout Details';
       }
     }
 
