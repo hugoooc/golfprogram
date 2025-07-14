@@ -1,0 +1,562 @@
+{
+  "id": "63e799e4359b27001680bbfc",
+  "title": "Hanging Back",
+  "type": "regular",
+  "background": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/images/1676122758841-9de03572-70c6-4bbb-a2a8-c49c5d67de18.jpg",
+  "level": "All",
+  "duration": "15 min",
+  "details": {
+    "_id": "63e799e4359b27001680bbfc",
+    "sections": [
+      {
+        "_id": "63e799cd94657e00151698f0",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63e799cd94657e00151698ee",
+            "supersets": [
+              {
+                "_id": "63e799cd94657e00151698e9",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63d2e9fe4389a700162962cc",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Hip Internal Rotation Mobilizations",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=J98gsbqlDbw",
+                  "preview_300": "https://img.youtube.com/vi/J98gsbqlDbw/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/J98gsbqlDbw/hqdefault.jpg",
+                  "createdAt": "2023-01-26T21:00:46.982Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/J98gsbqlDbw/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Hip Internal Rotation Mobilizations",
+                  "search_title2": "HIRM",
+                  "search_title3": "hip internal rotation mobilizations",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:42.209Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63e799cc94657e00151698df",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://www.youtube.com/watch?v=J98gsbqlDbw",
+                  "__v": 0,
+                  "exercise": "63d2e9fe4389a700162962cc",
+                  "title": "Hip Internal Rotation Mobilizations",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "createdAt": "2023-02-11T13:36:12.986Z",
+                  "updatedAt": "2023-02-11T13:36:12.986Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63e799cd94657e00151698eb",
+                    "rest": {
+                      "value": ""
+                    },
+                    "reps": {
+                      "value": "10"
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63e799cd94657e00151698ea",
+                    "rest": {
+                      "value": ""
+                    },
+                    "reps": {
+                      "value": "10"
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63e799cc94657e00151698db",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-11T13:36:13.034Z",
+                "updatedAt": "2023-02-11T13:36:13.034Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-11T13:36:13.041Z",
+            "updatedAt": "2023-02-11T13:36:13.041Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-11T13:36:13.052Z",
+        "updatedAt": "2023-02-11T13:36:13.052Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63e799cd94657e00151698f1",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63e799cd94657e00151698ed",
+            "supersets": [
+              {
+                "_id": "63e799cd94657e00151698e3",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63bcd99ba2a3040017b50e8d",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Stability",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Single Leg Golf Rotations",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtube.com/watch?v=ZIEXijUEFZk",
+                  "preview_300": "https://img.youtube.com/vi/ZIEXijUEFZk/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/ZIEXijUEFZk/hqdefault.jpg",
+                  "createdAt": "2023-01-10T03:20:59.918Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/ZIEXijUEFZk/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Single Leg Golf Rotations",
+                  "search_title2": "SLGR",
+                  "search_title3": "single leg golf rotations",
+                  "migrate_custom_exercise_at": "2024-03-25T12:21:36.438Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:42.961Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63e799cc94657e00151698dd",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Stability",
+                  "videoLink": "https://youtube.com/watch?v=ZIEXijUEFZk",
+                  "__v": 0,
+                  "exercise": "63bcd99ba2a3040017b50e8d",
+                  "title": "Single Leg Golf Rotations",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "createdAt": "2023-02-11T13:36:12.983Z",
+                  "updatedAt": "2023-02-11T13:36:12.983Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63e799cd94657e00151698e5",
+                    "rest": {
+                      "value": ""
+                    },
+                    "reps": {
+                      "value": "10"
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63e799cd94657e00151698e4",
+                    "rest": {
+                      "value": ""
+                    },
+                    "reps": {
+                      "value": "10"
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63e799cc94657e00151698db",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-11T13:36:13.024Z",
+                "updatedAt": "2023-02-11T13:36:13.024Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-11T13:36:13.039Z",
+            "updatedAt": "2023-02-11T13:36:13.039Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-11T13:36:13.052Z",
+        "updatedAt": "2023-02-11T13:36:13.052Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63e799cd94657e00151698f2",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63e799cd94657e00151698ef",
+            "supersets": [
+              {
+                "_id": "63e799cd94657e00151698e6",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63e79298ea83b00015beb4ab",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Glutes",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Single Leg Resisted Bridge With Pattern Assistance",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=h-1I2Kya3Xs",
+                  "preview_300": "https://img.youtube.com/vi/h-1I2Kya3Xs/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/h-1I2Kya3Xs/hqdefault.jpg",
+                  "createdAt": "2023-02-11T13:05:28.997Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/h-1I2Kya3Xs/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Single Leg Resisted Bridge With Pattern Assistance",
+                  "search_title2": "SLRBWPA",
+                  "search_title3": "single leg resisted bridge with pattern assistance",
+                  "migrate_custom_exercise_at": "2024-03-25T12:23:18.761Z",
+                  "modality": null,
+                  "movement_patterns": [],
+                  "muscle_groups": [
+                    {
+                      "is_primary": true,
+                      "muscle_group": {
+                        "_id": "66013f86b117d35345209b17",
+                        "title": "Glutes"
+                      }
+                    }
+                  ],
+                  "migrate_search_at": "2024-03-26T12:15:41.688Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63e799cc94657e00151698de",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Glutes",
+                  "videoLink": "https://www.youtube.com/watch?v=h-1I2Kya3Xs",
+                  "__v": 0,
+                  "exercise": "63e79298ea83b00015beb4ab",
+                  "title": "Single Leg Resisted Bridge With Pattern Assistance",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "createdAt": "2023-02-11T13:36:12.985Z",
+                  "updatedAt": "2023-02-11T13:36:12.985Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63e799cd94657e00151698e8",
+                    "rest": {
+                      "value": ""
+                    },
+                    "reps": {
+                      "value": "10"
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63e799cd94657e00151698e7",
+                    "rest": {
+                      "value": ""
+                    },
+                    "reps": {
+                      "value": "10"
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63e799cc94657e00151698db",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-11T13:36:13.030Z",
+                "updatedAt": "2023-02-11T13:36:13.030Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-11T13:36:13.041Z",
+            "updatedAt": "2023-02-11T13:36:13.041Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-11T13:36:13.052Z",
+        "updatedAt": "2023-02-11T13:36:13.052Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63e799cd94657e00151698f3",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63e799cd94657e00151698ec",
+            "supersets": [
+              {
+                "_id": "63e799cd94657e00151698e0",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63c022482d5b690016b9ddb4",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Hip Twister",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtube.com/watch?v=3S_RGNV5HFc",
+                  "preview_300": "https://img.youtube.com/vi/3S_RGNV5HFc/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/3S_RGNV5HFc/hqdefault.jpg",
+                  "createdAt": "2023-01-12T15:07:52.395Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/3S_RGNV5HFc/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Hip Twister",
+                  "search_title2": "HT",
+                  "search_title3": "hip twister",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:42.848Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63e799cc94657e00151698dc",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://youtube.com/watch?v=3S_RGNV5HFc",
+                  "__v": 0,
+                  "exercise": "63c022482d5b690016b9ddb4",
+                  "title": "Hip Twister",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "createdAt": "2023-02-11T13:36:12.980Z",
+                  "updatedAt": "2023-02-11T13:36:12.980Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63e799cd94657e00151698e2",
+                    "rest": {
+                      "value": ""
+                    },
+                    "reps": {
+                      "value": "10"
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63e799cd94657e00151698e1",
+                    "rest": {
+                      "value": ""
+                    },
+                    "reps": {
+                      "value": "10"
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63e799cc94657e00151698db",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-11T13:36:13.009Z",
+                "updatedAt": "2023-02-11T13:36:13.009Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-11T13:36:13.037Z",
+            "updatedAt": "2023-02-11T13:36:13.037Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-11T13:36:13.052Z",
+        "updatedAt": "2023-02-11T13:36:13.052Z",
+        "__v": 0,
+        "records": []
+      }
+    ],
+    "title": "Hanging Back",
+    "type": "regular",
+    "description": "Hanging Back is when a golfer does not shift their weight correctly back onto their front side on the downswing. Golfers tend to hang back on their back leg and spine through impact.\n\nHanging Back, or not shifting weight correctly on the downswing, can be caused by:\n\nPoor strength or power in the back leg can prevent proper weight shift. If there are any weaknesses in the glutes, adductors, abdominals, etc, on the back side, players may eliminate the weight shift altogether. \n\nLimited mobility or instability in the front hip can result in the player hanging back. If there are any weaknesses in the glutes, abductors or abdominals and limited hip internal rotation on the lead side, players may avoid the lead side altogether. \n\nPoor technique and lack of coordination in rotating the hips can be the underlying cause. This is best checked by the Pelvic Rotation Test.",
+    "level": {
+      "item": {
+        "_id": "626bc8e08505500014baa788",
+        "name": "All"
+      },
+      "priority": 1
+    },
+    "duration": {
+      "item": {
+        "_id": "626bc8e08505500014baa793",
+        "name": "15 min"
+      },
+      "priority": 3
+    },
+    "labels": [],
+    "original_workout": "63e79365ddbf100015443b22",
+    "author": {
+      "_id": "63a4389b9993b10016e248b2",
+      "timezone": "America/Chicago",
+      "sex": "0",
+      "is_archived": false,
+      "email": "john@golfgains.fitness",
+      "profile_email": "john@golfgains.fitness",
+      "first_name": "John",
+      "last_name": "Irvine",
+      "full_name": "John Irvine",
+      "full_name_sort": "john irvine",
+      "is_trainer": true,
+      "trainers": [],
+      "sub_trainers": [],
+      "teams": [
+        {
+          "_id": "63a438b09993b10016e248ba",
+          "team": "63a438af9993b10016e248b9",
+          "role": 0
+        }
+      ],
+      "color": "#C49F9F",
+      "current_team": "63a438af9993b10016e248b9",
+      "firstLogin": "2022-12-22T11:00:00.434Z",
+      "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+      "account_id": "63a4389b9993b10016e248b2"
+    },
+    "team": "63a438af9993b10016e248b9",
+    "original_title": "Hanging Back",
+    "background": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/images/1676122758841-9de03572-70c6-4bbb-a2a8-c49c5d67de18.jpg",
+    "share": 1,
+    "section_countdown": 10,
+    "background_thumbnail": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/thumbnails-converted/1676122758841-9de03572-70c6-4bbb-a2a8-c49c5d67de18.jpg"
+  }
+}

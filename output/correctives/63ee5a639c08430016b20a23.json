@@ -1,0 +1,507 @@
+{
+  "id": "63ee5a639c08430016b20a23",
+  "title": "Golfer's Elbow",
+  "type": "regular",
+  "background": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/images/1676565048429-b00bf363-6e56-45cc-b184-4b70218aaa5f.jpg",
+  "level": "All",
+  "duration": "15 min",
+  "details": {
+    "_id": "63ee5a639c08430016b20a23",
+    "sections": [
+      {
+        "_id": "63ee5a4becb2b000166804c2",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee5a4becb2b000166804c0",
+            "supersets": [
+              {
+                "_id": "63ee5a4becb2b000166804b9",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ee56a06e50ec001815ec42",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Forearms",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "category_type_name": "Strength",
+                  "title": "3 Way DB Forearms",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=vk5MAXZj0Ow",
+                  "preview_300": "https://img.youtube.com/vi/vk5MAXZj0Ow/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/vk5MAXZj0Ow/hqdefault.jpg",
+                  "createdAt": "2023-02-16T16:15:28.262Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/vk5MAXZj0Ow/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "3 Way DB Forearms",
+                  "search_title2": "3WDF",
+                  "search_title3": "3 way dumbbell forearms",
+                  "migrate_custom_exercise_at": "2024-03-25T12:23:36.638Z",
+                  "modality": null,
+                  "movement_patterns": [],
+                  "muscle_groups": [
+                    {
+                      "is_primary": true,
+                      "muscle_group": {
+                        "_id": "66013f86b117d35345209b19",
+                        "title": "Forearms"
+                      }
+                    }
+                  ],
+                  "migrate_search_at": "2024-03-26T12:15:41.428Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee5a4becb2b000166804b4",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Forearms",
+                  "videoLink": "https://www.youtube.com/watch?v=vk5MAXZj0Ow",
+                  "title": "3 Way DB Forearms",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "exercise": "63ee56a06e50ec001815ec42",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:31:07.576Z",
+                  "updatedAt": "2023-02-16T16:31:07.576Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a4becb2b000166804bb",
+                    "weight": {
+                      "value": "",
+                      "set_unit": {
+                        "_id": "5c40aa79690c9d44eafb575d",
+                        "ratio": 1,
+                        "name": "Pound",
+                        "unique_code": "lb",
+                        "createdAt": "2019-01-17T16:16:57.762Z",
+                        "updatedAt": "2022-03-28T08:56:56.453Z",
+                        "__v": 0,
+                        "title": "lb"
+                      }
+                    },
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a4becb2b000166804ba",
+                    "weight": {
+                      "value": "",
+                      "set_unit": {
+                        "_id": "5c40aa79690c9d44eafb575d",
+                        "ratio": 1,
+                        "name": "Pound",
+                        "unique_code": "lb",
+                        "createdAt": "2019-01-17T16:16:57.762Z",
+                        "updatedAt": "2022-03-28T08:56:56.453Z",
+                        "__v": 0,
+                        "title": "lb"
+                      }
+                    },
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee5a4becb2b000166804b2",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:31:07.594Z",
+                "updatedAt": "2023-02-16T16:31:07.594Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:31:07.616Z",
+            "updatedAt": "2023-02-16T16:31:07.616Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:31:07.632Z",
+        "updatedAt": "2023-02-16T16:31:07.632Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee5a4becb2b000166804c3",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee5a4becb2b000166804bf",
+            "supersets": [
+              {
+                "_id": "63ee5a4becb2b000166804b6",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ee4a55b110ef0016c76b3d",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Forearms",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "category_type_name": "Strength",
+                  "title": "Dowel Wrist Rotations",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=h6l0KQfZbKs",
+                  "preview_300": "https://img.youtube.com/vi/h6l0KQfZbKs/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/h6l0KQfZbKs/hqdefault.jpg",
+                  "createdAt": "2023-02-16T15:23:01.872Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/h6l0KQfZbKs/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Dowel Wrist Rotations",
+                  "search_title2": "DWR",
+                  "search_title3": "dowel wrist rotations",
+                  "migrate_custom_exercise_at": "2024-03-25T12:23:36.638Z",
+                  "modality": null,
+                  "movement_patterns": [],
+                  "muscle_groups": [
+                    {
+                      "is_primary": true,
+                      "muscle_group": {
+                        "_id": "66013f86b117d35345209b19",
+                        "title": "Forearms"
+                      }
+                    }
+                  ],
+                  "migrate_search_at": "2024-03-26T12:15:41.428Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee5a4becb2b000166804b3",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Forearms",
+                  "videoLink": "https://www.youtube.com/watch?v=h6l0KQfZbKs",
+                  "title": "Dowel Wrist Rotations",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "exercise": "63ee4a55b110ef0016c76b3d",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:31:07.572Z",
+                  "updatedAt": "2023-02-16T16:31:07.572Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a4becb2b000166804b8",
+                    "weight": {
+                      "value": "",
+                      "set_unit": {
+                        "_id": "5c40aa79690c9d44eafb575d",
+                        "ratio": 1,
+                        "name": "Pound",
+                        "unique_code": "lb",
+                        "createdAt": "2019-01-17T16:16:57.762Z",
+                        "updatedAt": "2022-03-28T08:56:56.453Z",
+                        "__v": 0,
+                        "title": "lb"
+                      }
+                    },
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a4becb2b000166804b7",
+                    "weight": {
+                      "value": "",
+                      "set_unit": {
+                        "_id": "5c40aa79690c9d44eafb575d",
+                        "ratio": 1,
+                        "name": "Pound",
+                        "unique_code": "lb",
+                        "createdAt": "2019-01-17T16:16:57.762Z",
+                        "updatedAt": "2022-03-28T08:56:56.453Z",
+                        "__v": 0,
+                        "title": "lb"
+                      }
+                    },
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee5a4becb2b000166804b2",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:31:07.584Z",
+                "updatedAt": "2023-02-16T16:31:07.584Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:31:07.601Z",
+            "updatedAt": "2023-02-16T16:31:07.601Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:31:07.632Z",
+        "updatedAt": "2023-02-16T16:31:07.632Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee5a4becb2b000166804c4",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee5a4becb2b000166804c1",
+            "supersets": [
+              {
+                "_id": "63ee5a4becb2b000166804bc",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63a4bfeeea9e1c0017c4c4b4",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [
+                    "63a4bfdbcbaa61001a5e4c8c"
+                  ],
+                  "body_part": "Middle Back",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Side lying Wipers",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtu.be/QMMZEwOnvB8",
+                  "preview_300": "https://img.youtube.com/vi/QMMZEwOnvB8/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/QMMZEwOnvB8/hqdefault.jpg",
+                  "createdAt": "2022-12-22T20:37:02.217Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/QMMZEwOnvB8/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Side lying Wipers",
+                  "search_title2": "SlW",
+                  "search_title3": "side lying wipers",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:21.738Z",
+                  "modality": null,
+                  "movement_patterns": [],
+                  "muscle_groups": [
+                    {
+                      "is_primary": true,
+                      "muscle_group": {
+                        "_id": "66013f86b117d35345209b1b",
+                        "title": "Mid Back"
+                      }
+                    }
+                  ],
+                  "migrate_search_at": "2024-03-26T12:15:40.669Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee5a4becb2b000166804b5",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Middle Back",
+                  "videoLink": "https://youtu.be/QMMZEwOnvB8",
+                  "title": "Side lying Wipers",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63a4bfeeea9e1c0017c4c4b4",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:31:07.578Z",
+                  "updatedAt": "2023-02-16T16:31:07.578Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a4becb2b000166804be",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a4becb2b000166804bd",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee5a4becb2b000166804b2",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:31:07.599Z",
+                "updatedAt": "2023-02-16T16:31:07.599Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:31:07.616Z",
+            "updatedAt": "2023-02-16T16:31:07.616Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:31:07.632Z",
+        "updatedAt": "2023-02-16T16:31:07.632Z",
+        "__v": 0,
+        "records": []
+      }
+    ],
+    "title": "Golfer's Elbow",
+    "type": "regular",
+    "description": "Golfer’s elbow is an inflammation of the tendons that attach your forearm muscles on your inner elbow. This injury primarily occurs from overuse by repeating the same motions over and over and usually due to aforementioned poor swing mechanics. This results in pain and tenderness on the inside of the elbow.\n\nOne underlying condition that may cause golfers elbow is lack of rotation through your swing causing you to over use your arms.",
+    "background": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/images/1676565048429-b00bf363-6e56-45cc-b184-4b70218aaa5f.jpg",
+    "level": {
+      "item": {
+        "_id": "626bc8e08505500014baa788",
+        "name": "All"
+      },
+      "priority": 1
+    },
+    "duration": {
+      "item": {
+        "_id": "626bc8e08505500014baa793",
+        "name": "15 min"
+      },
+      "priority": 3
+    },
+    "labels": [],
+    "original_workout": "63ee57fae3b4f400166fc2e2",
+    "author": {
+      "_id": "63a4389b9993b10016e248b2",
+      "timezone": "America/Chicago",
+      "sex": "0",
+      "is_archived": false,
+      "email": "john@golfgains.fitness",
+      "profile_email": "john@golfgains.fitness",
+      "first_name": "John",
+      "last_name": "Irvine",
+      "full_name": "John Irvine",
+      "full_name_sort": "john irvine",
+      "is_trainer": true,
+      "trainers": [],
+      "sub_trainers": [],
+      "teams": [
+        {
+          "_id": "63a438b09993b10016e248ba",
+          "team": "63a438af9993b10016e248b9",
+          "role": 0
+        }
+      ],
+      "color": "#C49F9F",
+      "current_team": "63a438af9993b10016e248b9",
+      "firstLogin": "2022-12-22T11:00:00.434Z",
+      "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+      "account_id": "63a4389b9993b10016e248b2"
+    },
+    "team": "63a438af9993b10016e248b9",
+    "original_title": "Golf Elbow",
+    "share": 1,
+    "section_countdown": 10,
+    "background_thumbnail": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/thumbnails-converted/1676565048429-b00bf363-6e56-45cc-b184-4b70218aaa5f.jpg"
+  }
+}

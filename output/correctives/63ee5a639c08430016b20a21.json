@@ -1,0 +1,616 @@
+{
+  "id": "63ee5a639c08430016b20a21",
+  "title": "Sway/Slide Correctives",
+  "type": "regular",
+  "background": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/images/1676564930127-355937dc-5806-43ad-8d47-4331529b1fbb.jpg",
+  "level": "Beginner",
+  "duration": "15 min",
+  "details": {
+    "_id": "63ee5a639c08430016b20a21",
+    "sections": [
+      {
+        "_id": "63ee59cd89263b0015560f7f",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee59cd89263b0015560f7c",
+            "supersets": [
+              {
+                "_id": "63ee59cd89263b0015560f72",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63d2e9fe4389a700162962cc",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Hip Internal Rotation Mobilizations",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=J98gsbqlDbw",
+                  "preview_300": "https://img.youtube.com/vi/J98gsbqlDbw/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/J98gsbqlDbw/hqdefault.jpg",
+                  "createdAt": "2023-01-26T21:00:46.982Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/J98gsbqlDbw/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Hip Internal Rotation Mobilizations",
+                  "search_title2": "HIRM",
+                  "search_title3": "hip internal rotation mobilizations",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:42.209Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee59cd89263b0015560f6d",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://www.youtube.com/watch?v=J98gsbqlDbw",
+                  "title": "Hip Internal Rotation Mobilizations",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63d2e9fe4389a700162962cc",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:29:01.193Z",
+                  "updatedAt": "2023-02-16T16:29:01.193Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee59cd89263b0015560f74",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee59cd89263b0015560f73",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee59cd89263b0015560f6a",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:29:01.213Z",
+                "updatedAt": "2023-02-16T16:29:01.213Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:29:01.233Z",
+            "updatedAt": "2023-02-16T16:29:01.233Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:29:01.256Z",
+        "updatedAt": "2023-02-16T16:29:01.256Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee59cd89263b0015560f80",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee59cd89263b0015560f7b",
+            "supersets": [
+              {
+                "_id": "63ee59cd89263b0015560f6f",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ebbde2c8fb4e001713631a",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Reverse Clam Shell",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=7uTR6bf-9PI",
+                  "preview_300": "https://img.youtube.com/vi/7uTR6bf-9PI/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/7uTR6bf-9PI/hqdefault.jpg",
+                  "createdAt": "2023-02-14T16:59:14.562Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/7uTR6bf-9PI/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Reverse Clam Shell",
+                  "search_title2": "RCS",
+                  "search_title3": "reverse clam shell",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:41.490Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee59cd89263b0015560f6b",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://www.youtube.com/watch?v=7uTR6bf-9PI",
+                  "title": "Reverse Clam Shell",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63ebbde2c8fb4e001713631a",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:29:01.189Z",
+                  "updatedAt": "2023-02-16T16:29:01.189Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee59cd89263b0015560f71",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee59cd89263b0015560f70",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee59cd89263b0015560f6a",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:29:01.206Z",
+                "updatedAt": "2023-02-16T16:29:01.206Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:29:01.230Z",
+            "updatedAt": "2023-02-16T16:29:01.230Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:29:01.256Z",
+        "updatedAt": "2023-02-16T16:29:01.256Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee59cd89263b0015560f81",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee59cd89263b0015560f7e",
+            "supersets": [
+              {
+                "_id": "63ee59cd89263b0015560f78",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63acb24b4a5a680016f51246",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Stability",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "category_type_name": "Strength",
+                  "title": "Single Leg MB Pass Over",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtube.com/watch?v=O77aZji2Xos",
+                  "preview_300": "https://img.youtube.com/vi/O77aZji2Xos/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/O77aZji2Xos/hqdefault.jpg",
+                  "createdAt": "2022-12-28T21:16:59.546Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/O77aZji2Xos/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Single Leg MB Pass Over",
+                  "search_title2": "SLMPO",
+                  "search_title3": "single leg medicine ball pass over",
+                  "migrate_custom_exercise_at": "2024-03-25T12:21:36.438Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:40.262Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee59cd89263b0015560f6e",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Stability",
+                  "videoLink": "https://youtube.com/watch?v=O77aZji2Xos",
+                  "title": "Single Leg MB Pass Over",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "exercise": "63acb24b4a5a680016f51246",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:29:01.194Z",
+                  "updatedAt": "2023-02-16T16:29:01.194Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee59cd89263b0015560f7a",
+                    "weight": {
+                      "value": "",
+                      "set_unit": {
+                        "_id": "5c40aa79690c9d44eafb575d",
+                        "ratio": 1,
+                        "name": "Pound",
+                        "unique_code": "lb",
+                        "createdAt": "2019-01-17T16:16:57.762Z",
+                        "updatedAt": "2022-03-28T08:56:56.453Z",
+                        "__v": 0,
+                        "title": "lb"
+                      }
+                    },
+                    "reps": {
+                      "value": "5"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee59cd89263b0015560f79",
+                    "weight": {
+                      "value": "",
+                      "set_unit": {
+                        "_id": "5c40aa79690c9d44eafb575d",
+                        "ratio": 1,
+                        "name": "Pound",
+                        "unique_code": "lb",
+                        "createdAt": "2019-01-17T16:16:57.762Z",
+                        "updatedAt": "2022-03-28T08:56:56.453Z",
+                        "__v": 0,
+                        "title": "lb"
+                      }
+                    },
+                    "reps": {
+                      "value": "5"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee59cd89263b0015560f6a",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:29:01.226Z",
+                "updatedAt": "2023-02-16T16:29:01.226Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:29:01.236Z",
+            "updatedAt": "2023-02-16T16:29:01.236Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:29:01.256Z",
+        "updatedAt": "2023-02-16T16:29:01.256Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee59cd89263b0015560f82",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee59cd89263b0015560f7d",
+            "supersets": [
+              {
+                "_id": "63ee59cd89263b0015560f75",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ac52398897c0001559ebcc",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [
+                    "Move laterally with the band with the band crossed over infront of you."
+                  ],
+                  "popularity": 0,
+                  "custom": false,
+                  "from_everfit": true,
+                  "tags": [],
+                  "title": "X Band Walks",
+                  "body_part": "Glutes",
+                  "videoLink": "https://www.youtube.com/watch?v=NV1w18l2d1I",
+                  "preview_50": "https://img.youtube.com/vi/NV1w18l2d1I/default.jpg",
+                  "preview_300": "https://img.youtube.com/vi/NV1w18l2d1I/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/NV1w18l2d1I/maxresdefault.jpg",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "category_type_name": "Strength",
+                  "__v": 0,
+                  "binding_system_exercise": "5f735fc39292260016fdf5eb",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "createdAt": "2022-12-28T14:27:05.645Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "search_title1": "X Band Walks",
+                  "search_title2": "XBW",
+                  "search_title3": "x band walks",
+                  "batch_id": "65fd40b4f32d8c1149e6a5b4",
+                  "equipment": {
+                    "_id": "66014103b117d35345209b36",
+                    "title": "Resistance Band"
+                  },
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [
+                    {
+                      "is_primary": true,
+                      "movement_pattern": {
+                        "_id": "66013f2fb117d35345209b0a",
+                        "title": "Locomotion"
+                      }
+                    }
+                  ],
+                  "muscle_groups": [
+                    {
+                      "is_primary": true,
+                      "muscle_group": {
+                        "_id": "66013f86b117d35345209b17",
+                        "title": "Glutes"
+                      }
+                    },
+                    {
+                      "is_primary": false,
+                      "muscle_group": {
+                        "_id": "66013f86b117d35345209b1d",
+                        "title": "Hip & Groin"
+                      }
+                    }
+                  ],
+                  "search_synonym": [],
+                  "synonyms": [],
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "video": null,
+                  "migrate_search_at": "2024-04-22T10:44:45.434Z"
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee59cd89263b0015560f6c",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [
+                    "Move laterally with the band with the band crossed over infront of you."
+                  ],
+                  "body_part": "Glutes",
+                  "videoLink": "https://www.youtube.com/watch?v=NV1w18l2d1I",
+                  "title": "X Band Walks",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63ac52398897c0001559ebcc",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:29:01.191Z",
+                  "updatedAt": "2023-02-16T16:29:01.191Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee59cd89263b0015560f77",
+                    "reps": {
+                      "value": "15"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee59cd89263b0015560f76",
+                    "reps": {
+                      "value": "15"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee59cd89263b0015560f6a",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:29:01.219Z",
+                "updatedAt": "2023-02-16T16:29:01.219Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:29:01.236Z",
+            "updatedAt": "2023-02-16T16:29:01.236Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:29:01.257Z",
+        "updatedAt": "2023-02-16T16:29:01.257Z",
+        "__v": 0,
+        "records": []
+      }
+    ],
+    "title": "Sway/Slide Correctives",
+    "type": "regular",
+    "description": "The sway and slide is when you have excessive lateral movement in your lower body that forces your weight on the outside of your foot.  The main factor that is going to cause this error is lack of proper internal rotation in your hips.  Lack of stabilization of your glutes can also be a major contributor.",
+    "background": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/images/1676564930127-355937dc-5806-43ad-8d47-4331529b1fbb.jpg",
+    "level": {
+      "item": {
+        "_id": "626bc8e08505500014baa789",
+        "name": "Beginner"
+      },
+      "priority": 2
+    },
+    "duration": {
+      "item": {
+        "_id": "626bc8e08505500014baa793",
+        "name": "15 min"
+      },
+      "priority": 3
+    },
+    "labels": [],
+    "original_workout": "63ee46839c08430016b1f6ee",
+    "author": {
+      "_id": "63a4389b9993b10016e248b2",
+      "timezone": "America/Chicago",
+      "sex": "0",
+      "is_archived": false,
+      "email": "john@golfgains.fitness",
+      "profile_email": "john@golfgains.fitness",
+      "first_name": "John",
+      "last_name": "Irvine",
+      "full_name": "John Irvine",
+      "full_name_sort": "john irvine",
+      "is_trainer": true,
+      "trainers": [],
+      "sub_trainers": [],
+      "teams": [
+        {
+          "_id": "63a438b09993b10016e248ba",
+          "team": "63a438af9993b10016e248b9",
+          "role": 0
+        }
+      ],
+      "color": "#C49F9F",
+      "current_team": "63a438af9993b10016e248b9",
+      "firstLogin": "2022-12-22T11:00:00.434Z",
+      "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+      "account_id": "63a4389b9993b10016e248b2"
+    },
+    "team": "63a438af9993b10016e248b9",
+    "original_title": "Sway/Slide Correctives",
+    "share": 1,
+    "section_countdown": 10,
+    "background_thumbnail": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/thumbnails-converted/1676564930127-355937dc-5806-43ad-8d47-4331529b1fbb.jpg"
+  }
+}

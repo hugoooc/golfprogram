@@ -1,0 +1,727 @@
+{
+  "id": "63ee5a639c08430016b20a1f",
+  "title": "Loss Of Posture & Early Ext.",
+  "type": "regular",
+  "background": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/images/1676564765159-bbf69f48-ffe8-4db6-af07-b39c79dfde74.jpg",
+  "level": "All",
+  "duration": "15 min",
+  "details": {
+    "_id": "63ee5a639c08430016b20a1f",
+    "sections": [
+      {
+        "_id": "63ee594082937c0017190b53",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee594082937c0017190b50",
+            "supersets": [
+              {
+                "_id": "63ee594082937c0017190b4b",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "note": "10 reps slow and controlled with heals up then repeat with toes up.",
+                "exercise": {
+                  "_id": "63b6e821dc1e5c00171a299f",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [
+                    "Using a towel between your legs, squeeze your thighs together while touching your toes. Do 10 reps slow and controlled with your toes elevated then perform 10 more with your heels elevetaed."
+                  ],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "towel squeeze toe touch",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtube.com/watch?v=0WhxGg74j9I",
+                  "preview_300": "https://img.youtube.com/vi/0WhxGg74j9I/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/0WhxGg74j9I/maxresdefault.jpg",
+                  "createdAt": "2023-01-05T15:09:21.780Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/0WhxGg74j9I/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "attachment_id": null,
+                  "video_only": true,
+                  "search_title1": "towel squeeze toe touch",
+                  "search_title2": "tstt",
+                  "search_title3": "towel squeeze toe touch",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:39.607Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee594082937c0017190b3d",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://youtube.com/watch?v=0WhxGg74j9I",
+                  "title": "towel squeeze toe touch",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63b6e821dc1e5c00171a299f",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:26:40.688Z",
+                  "updatedAt": "2023-02-16T16:26:40.688Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee594082937c0017190b4d",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee594082937c0017190b4c",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee594082937c0017190b39",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:26:40.780Z",
+                "updatedAt": "2023-02-16T16:26:40.780Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:26:40.818Z",
+            "updatedAt": "2023-02-16T16:26:40.818Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:26:40.835Z",
+        "updatedAt": "2023-02-16T16:26:40.835Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee594082937c0017190b54",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee594082937c0017190b52",
+            "supersets": [
+              {
+                "_id": "63ee594082937c0017190b42",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ac56f29d968200162cdb1b",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [
+                    "63a4bfdbcbaa61001a5e4c8c"
+                  ],
+                  "body_part": "Shoulders",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Wall Shoulder Circles",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtube.com/watch?v=fbiWh_XYV6c",
+                  "preview_300": "https://img.youtube.com/vi/fbiWh_XYV6c/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/fbiWh_XYV6c/hqdefault.jpg",
+                  "createdAt": "2022-12-28T14:47:14.604Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/fbiWh_XYV6c/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Wall Shoulder Circles",
+                  "search_title2": "WSC",
+                  "search_title3": "wall shoulder circles",
+                  "migrate_custom_exercise_at": "2024-03-25T12:21:43.065Z",
+                  "modality": null,
+                  "movement_patterns": [],
+                  "muscle_groups": [
+                    {
+                      "is_primary": true,
+                      "muscle_group": {
+                        "_id": "66013f86b117d35345209b18",
+                        "title": "Shoulders"
+                      }
+                    }
+                  ],
+                  "migrate_search_at": "2024-03-26T12:15:40.285Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee594082937c0017190b3a",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Shoulders",
+                  "videoLink": "https://youtube.com/watch?v=fbiWh_XYV6c",
+                  "title": "Wall Shoulder Circles",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63ac56f29d968200162cdb1b",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:26:40.670Z",
+                  "updatedAt": "2023-02-16T16:26:40.670Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee594082937c0017190b44",
+                    "reps": {
+                      "value": "8"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee594082937c0017190b43",
+                    "reps": {
+                      "value": "8"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee594082937c0017190b39",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:26:40.731Z",
+                "updatedAt": "2023-02-16T16:26:40.731Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:26:40.818Z",
+            "updatedAt": "2023-02-16T16:26:40.818Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:26:40.835Z",
+        "updatedAt": "2023-02-16T16:26:40.835Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee594082937c0017190b55",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee594082937c0017190b4f",
+            "supersets": [
+              {
+                "_id": "63ee594082937c0017190b48",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ebb769d80e78001586c597",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76016",
+                  "category_type_name": "Timed",
+                  "title": "90/90 Hip Flow",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=SulmfGrpqGA",
+                  "preview_300": "https://img.youtube.com/vi/SulmfGrpqGA/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/SulmfGrpqGA/hqdefault.jpg",
+                  "createdAt": "2023-02-14T16:31:37.099Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/SulmfGrpqGA/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "90 90 Hip Flow",
+                  "search_title2": "99HF",
+                  "search_title3": "90 90 hip flow",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:41.490Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee594082937c0017190b3e",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://www.youtube.com/watch?v=SulmfGrpqGA",
+                  "title": "90/90 Hip Flow",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76016",
+                  "exercise": "63ebb769d80e78001586c597",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:26:40.695Z",
+                  "updatedAt": "2023-02-16T16:26:40.695Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee594082937c0017190b4a",
+                    "duration": {
+                      "value": "120"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee594082937c0017190b49",
+                    "duration": {
+                      "value": "120"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee594082937c0017190b39",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:26:40.773Z",
+                "updatedAt": "2023-02-16T16:26:40.773Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:26:40.818Z",
+            "updatedAt": "2023-02-16T16:26:40.818Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:26:40.835Z",
+        "updatedAt": "2023-02-16T16:26:40.835Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee594082937c0017190b56",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee594082937c0017190b51",
+            "supersets": [
+              {
+                "_id": "63ee594082937c0017190b3f",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63c29534bf2fea001782feff",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Agility",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Lateral Step Twists",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtube.com/watch?v=G9GtZccXNC0",
+                  "preview_300": "https://img.youtube.com/vi/G9GtZccXNC0/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/G9GtZccXNC0/hqdefault.jpg",
+                  "createdAt": "2023-01-14T11:42:44.222Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/G9GtZccXNC0/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Lateral Step Twists",
+                  "search_title2": "LST",
+                  "search_title3": "lateral step twists",
+                  "migrate_custom_exercise_at": "2024-03-25T12:24:13.737Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209b02",
+                    "title": "Agility"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:42.685Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee594082937c0017190b3b",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Agility",
+                  "videoLink": "https://youtube.com/watch?v=G9GtZccXNC0",
+                  "title": "Lateral Step Twists",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63c29534bf2fea001782feff",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:26:40.679Z",
+                  "updatedAt": "2023-02-16T16:26:40.679Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee594082937c0017190b41",
+                    "reps": {
+                      "value": "6"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee594082937c0017190b40",
+                    "reps": {
+                      "value": "6"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee594082937c0017190b39",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:26:40.720Z",
+                "updatedAt": "2023-02-16T16:26:40.720Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:26:40.818Z",
+            "updatedAt": "2023-02-16T16:26:40.818Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:26:40.835Z",
+        "updatedAt": "2023-02-16T16:26:40.835Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee594082937c0017190b57",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee594082937c0017190b4e",
+            "supersets": [
+              {
+                "_id": "63ee594082937c0017190b45",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63adc5df3919f90016ea6a99",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [
+                    "63a470ebf17c6d0018308270"
+                  ],
+                  "body_part": "Abdominals",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "category_type_name": "Strength",
+                  "title": "Half Kneeling Kettlebell Windmill",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtube.com/watch?v=_cTNp7AJlBA",
+                  "preview_300": "https://img.youtube.com/vi/_cTNp7AJlBA/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/_cTNp7AJlBA/hqdefault.jpg",
+                  "createdAt": "2022-12-29T16:52:47.006Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/_cTNp7AJlBA/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Half Kneeling Kettlebell Windmill",
+                  "search_title2": "HKKW",
+                  "search_title3": "half kneeling kettlebell windmill",
+                  "migrate_custom_exercise_at": "2024-03-25T12:21:01.652Z",
+                  "modality": null,
+                  "movement_patterns": [],
+                  "muscle_groups": [
+                    {
+                      "is_primary": true,
+                      "muscle_group": {
+                        "_id": "66013f86b117d35345209b14",
+                        "title": "Core & Lower Back"
+                      }
+                    }
+                  ],
+                  "migrate_search_at": "2024-03-26T12:15:40.252Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee594082937c0017190b3c",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Abdominals",
+                  "videoLink": "https://youtube.com/watch?v=_cTNp7AJlBA",
+                  "title": "Half Kneeling Kettlebell Windmill",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "exercise": "63adc5df3919f90016ea6a99",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:26:40.682Z",
+                  "updatedAt": "2023-02-16T16:26:40.682Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee594082937c0017190b47",
+                    "weight": {
+                      "value": "",
+                      "set_unit": {
+                        "_id": "5c40aa79690c9d44eafb575d",
+                        "ratio": 1,
+                        "name": "Pound",
+                        "unique_code": "lb",
+                        "createdAt": "2019-01-17T16:16:57.762Z",
+                        "updatedAt": "2022-03-28T08:56:56.453Z",
+                        "__v": 0,
+                        "title": "lb"
+                      }
+                    },
+                    "reps": {
+                      "value": "8"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee594082937c0017190b46",
+                    "weight": {
+                      "value": "",
+                      "set_unit": {
+                        "_id": "5c40aa79690c9d44eafb575d",
+                        "ratio": 1,
+                        "name": "Pound",
+                        "unique_code": "lb",
+                        "createdAt": "2019-01-17T16:16:57.762Z",
+                        "updatedAt": "2022-03-28T08:56:56.453Z",
+                        "__v": 0,
+                        "title": "lb"
+                      }
+                    },
+                    "reps": {
+                      "value": "8"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee594082937c0017190b39",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:26:40.750Z",
+                "updatedAt": "2023-02-16T16:26:40.750Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:26:40.818Z",
+            "updatedAt": "2023-02-16T16:26:40.818Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:26:40.835Z",
+        "updatedAt": "2023-02-16T16:26:40.835Z",
+        "__v": 0,
+        "records": []
+      }
+    ],
+    "title": "Loss Of Posture & Early Ext.",
+    "type": "regular",
+    "description": "Loss of Posture is any significant alteration from the body’s original set up angles during the golf swing.  This includes flat should plane an early extension  Loss of posture can affect all aspects of the golf swing, namely timing, balance and rhythm.  Losing spine angle or altering posture usually causes two typical mis-hits, the block to the right and a hook to the left for a right handed player.  As the body angles change, the player is put in a position to have to rely on their hand action to square the face.  This becomes a timing-driven swing that can be inconsistent.",
+    "background": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/images/1676564765159-bbf69f48-ffe8-4db6-af07-b39c79dfde74.jpg",
+    "level": {
+      "item": {
+        "_id": "626bc8e08505500014baa788",
+        "name": "All"
+      },
+      "priority": 1
+    },
+    "duration": {
+      "item": {
+        "_id": "626bc8e08505500014baa793",
+        "name": "15 min"
+      },
+      "priority": 3
+    },
+    "labels": [],
+    "original_workout": "63ebb7d378f43a0016df6fa0",
+    "author": {
+      "_id": "63a4389b9993b10016e248b2",
+      "timezone": "America/Chicago",
+      "sex": "0",
+      "is_archived": false,
+      "email": "john@golfgains.fitness",
+      "profile_email": "john@golfgains.fitness",
+      "first_name": "John",
+      "last_name": "Irvine",
+      "full_name": "John Irvine",
+      "full_name_sort": "john irvine",
+      "is_trainer": true,
+      "trainers": [],
+      "sub_trainers": [],
+      "teams": [
+        {
+          "_id": "63a438b09993b10016e248ba",
+          "team": "63a438af9993b10016e248b9",
+          "role": 0
+        }
+      ],
+      "color": "#C49F9F",
+      "current_team": "63a438af9993b10016e248b9",
+      "firstLogin": "2022-12-22T11:00:00.434Z",
+      "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+      "account_id": "63a4389b9993b10016e248b2"
+    },
+    "team": "63a438af9993b10016e248b9",
+    "original_title": "Loss Of Posture Correctives (Early Extension)",
+    "share": 1,
+    "section_countdown": 10,
+    "background_thumbnail": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/thumbnails-converted/1676564765159-bbf69f48-ffe8-4db6-af07-b39c79dfde74.jpg"
+  }
+}

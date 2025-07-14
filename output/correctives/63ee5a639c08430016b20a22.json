@@ -1,0 +1,592 @@
+{
+  "id": "63ee5a639c08430016b20a22",
+  "title": "Reverse Spine/Reverse Pivot",
+  "type": "regular",
+  "background": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/images/1676564995468-ec34633e-cea8-4301-ade5-55cddde6d098.jpg",
+  "level": "All",
+  "duration": "15 min",
+  "details": {
+    "_id": "63ee5a639c08430016b20a22",
+    "sections": [
+      {
+        "_id": "63ee5a0a9398b90016097e5a",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee5a0a9398b90016097e57",
+            "supersets": [
+              {
+                "_id": "63ee5a0a9398b90016097e4d",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ebb24a63e03500151d333b",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Pelvic Tilt Exercise",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=6fBSDaMJWGk",
+                  "preview_300": "https://img.youtube.com/vi/6fBSDaMJWGk/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/6fBSDaMJWGk/hqdefault.jpg",
+                  "createdAt": "2023-02-14T16:09:46.547Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/6fBSDaMJWGk/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Pelvic Tilt Exercise",
+                  "search_title2": "PTE",
+                  "search_title3": "pelvic tilt exercise",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:41.490Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee5a0a9398b90016097e47",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://www.youtube.com/watch?v=6fBSDaMJWGk",
+                  "title": "Pelvic Tilt Exercise",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63ebb24a63e03500151d333b",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:30:02.154Z",
+                  "updatedAt": "2023-02-16T16:30:02.154Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a0a9398b90016097e4f",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a0a9398b90016097e4e",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee5a0a9398b90016097e45",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:30:02.243Z",
+                "updatedAt": "2023-02-16T16:30:02.243Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:30:02.289Z",
+            "updatedAt": "2023-02-16T16:30:02.289Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:30:02.335Z",
+        "updatedAt": "2023-02-16T16:30:02.335Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee5a0a9398b90016097e5b",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee5a0a9398b90016097e59",
+            "supersets": [
+              {
+                "_id": "63ee5a0a9398b90016097e53",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ebb769d80e78001586c597",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76016",
+                  "category_type_name": "Timed",
+                  "title": "90/90 Hip Flow",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=SulmfGrpqGA",
+                  "preview_300": "https://img.youtube.com/vi/SulmfGrpqGA/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/SulmfGrpqGA/hqdefault.jpg",
+                  "createdAt": "2023-02-14T16:31:37.099Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/SulmfGrpqGA/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "90 90 Hip Flow",
+                  "search_title2": "99HF",
+                  "search_title3": "90 90 hip flow",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:41.490Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee5a0a9398b90016097e48",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://www.youtube.com/watch?v=SulmfGrpqGA",
+                  "title": "90/90 Hip Flow",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76016",
+                  "exercise": "63ebb769d80e78001586c597",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:30:02.182Z",
+                  "updatedAt": "2023-02-16T16:30:02.182Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a0a9398b90016097e55",
+                    "duration": {
+                      "value": "60"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a0a9398b90016097e54",
+                    "duration": {
+                      "value": "60"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee5a0a9398b90016097e45",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:30:02.271Z",
+                "updatedAt": "2023-02-16T16:30:02.271Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:30:02.303Z",
+            "updatedAt": "2023-02-16T16:30:02.303Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:30:02.335Z",
+        "updatedAt": "2023-02-16T16:30:02.335Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee5a0a9398b90016097e5c",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee5a0a9398b90016097e56",
+            "supersets": [
+              {
+                "_id": "63ee5a0a9398b90016097e4a",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63af5b74b9e16500153d68d2",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "half kneeling t-spine opener",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtube.com/watch?v=KguLqOTbSZM",
+                  "preview_300": "https://img.youtube.com/vi/KguLqOTbSZM/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/KguLqOTbSZM/hqdefault.jpg",
+                  "createdAt": "2022-12-30T21:43:16.120Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/KguLqOTbSZM/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "half kneeling t spine opener",
+                  "search_title2": "hktso",
+                  "search_title3": "half kneeling t spine opener",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:40.165Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee5a0a9398b90016097e46",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://youtube.com/watch?v=KguLqOTbSZM",
+                  "title": "half kneeling t-spine opener",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63af5b74b9e16500153d68d2",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:30:02.127Z",
+                  "updatedAt": "2023-02-16T16:30:02.127Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a0a9398b90016097e4c",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a0a9398b90016097e4b",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee5a0a9398b90016097e45",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:30:02.208Z",
+                "updatedAt": "2023-02-16T16:30:02.208Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:30:02.286Z",
+            "updatedAt": "2023-02-16T16:30:02.286Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:30:02.335Z",
+        "updatedAt": "2023-02-16T16:30:02.335Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee5a0a9398b90016097e5d",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee5a0a9398b90016097e58",
+            "supersets": [
+              {
+                "_id": "63ee5a0a9398b90016097e50",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63adc5df3919f90016ea6a99",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [
+                    "63a470ebf17c6d0018308270"
+                  ],
+                  "body_part": "Abdominals",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "category_type_name": "Strength",
+                  "title": "Half Kneeling Kettlebell Windmill",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtube.com/watch?v=_cTNp7AJlBA",
+                  "preview_300": "https://img.youtube.com/vi/_cTNp7AJlBA/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/_cTNp7AJlBA/hqdefault.jpg",
+                  "createdAt": "2022-12-29T16:52:47.006Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/_cTNp7AJlBA/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Half Kneeling Kettlebell Windmill",
+                  "search_title2": "HKKW",
+                  "search_title3": "half kneeling kettlebell windmill",
+                  "migrate_custom_exercise_at": "2024-03-25T12:21:01.652Z",
+                  "modality": null,
+                  "movement_patterns": [],
+                  "muscle_groups": [
+                    {
+                      "is_primary": true,
+                      "muscle_group": {
+                        "_id": "66013f86b117d35345209b14",
+                        "title": "Core & Lower Back"
+                      }
+                    }
+                  ],
+                  "migrate_search_at": "2024-03-26T12:15:40.252Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee5a0a9398b90016097e49",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Abdominals",
+                  "videoLink": "https://youtube.com/watch?v=_cTNp7AJlBA",
+                  "title": "Half Kneeling Kettlebell Windmill",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "exercise": "63adc5df3919f90016ea6a99",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:30:02.186Z",
+                  "updatedAt": "2023-02-16T16:30:02.186Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a0a9398b90016097e52",
+                    "weight": {
+                      "value": "",
+                      "set_unit": {
+                        "_id": "5c40aa79690c9d44eafb575d",
+                        "ratio": 1,
+                        "name": "Pound",
+                        "unique_code": "lb",
+                        "createdAt": "2019-01-17T16:16:57.762Z",
+                        "updatedAt": "2022-03-28T08:56:56.453Z",
+                        "__v": 0,
+                        "title": "lb"
+                      }
+                    },
+                    "reps": {
+                      "value": "8"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee5a0a9398b90016097e51",
+                    "weight": {
+                      "value": "",
+                      "set_unit": {
+                        "_id": "5c40aa79690c9d44eafb575d",
+                        "ratio": 1,
+                        "name": "Pound",
+                        "unique_code": "lb",
+                        "createdAt": "2019-01-17T16:16:57.762Z",
+                        "updatedAt": "2022-03-28T08:56:56.453Z",
+                        "__v": 0,
+                        "title": "lb"
+                      }
+                    },
+                    "reps": {
+                      "value": "8"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee5a0a9398b90016097e45",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:30:02.256Z",
+                "updatedAt": "2023-02-16T16:30:02.256Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:30:02.303Z",
+            "updatedAt": "2023-02-16T16:30:02.303Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:30:02.335Z",
+        "updatedAt": "2023-02-16T16:30:02.335Z",
+        "__v": 0,
+        "records": []
+      }
+    ],
+    "title": "Reverse Spine/Reverse Pivot",
+    "type": "regular",
+    "description": "Reverse Spine Angle is any excessive upper body backward bend or excessive left lateral (for right handed golfers) upper body bend during the backswing. This swing characteristic makes it difficult to start the downswing in the proper sequence, because the lower body is in a position that usually limits its ability to initiate the downswing. This swing characteristic is also one of the prime causes of lower back pain. The upper body tends to dominate the swing when the lower body can’t start the downswing or has a limited ability to initiate the movement. The upper body domination will eventually create path problems and limited power output. This swing characteristic also puts excessive tension on the lower back due to forced inhibition of the abdominal musculature during the backswing.\n\nThe main contributing causes of reverse spine angle is lack of mobility in the shoulders and t-spine and well as lack of stability",
+    "background": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/images/1676564995468-ec34633e-cea8-4301-ade5-55cddde6d098.jpg",
+    "level": {
+      "item": {
+        "_id": "626bc8e08505500014baa788",
+        "name": "All"
+      },
+      "priority": 1
+    },
+    "duration": {
+      "item": {
+        "_id": "626bc8e08505500014baa793",
+        "name": "15 min"
+      },
+      "priority": 3
+    },
+    "labels": [],
+    "original_workout": "63ee48409398b90016096c8d",
+    "author": {
+      "_id": "63a4389b9993b10016e248b2",
+      "timezone": "America/Chicago",
+      "sex": "0",
+      "is_archived": false,
+      "email": "john@golfgains.fitness",
+      "profile_email": "john@golfgains.fitness",
+      "first_name": "John",
+      "last_name": "Irvine",
+      "full_name": "John Irvine",
+      "full_name_sort": "john irvine",
+      "is_trainer": true,
+      "trainers": [],
+      "sub_trainers": [],
+      "teams": [
+        {
+          "_id": "63a438b09993b10016e248ba",
+          "team": "63a438af9993b10016e248b9",
+          "role": 0
+        }
+      ],
+      "color": "#C49F9F",
+      "current_team": "63a438af9993b10016e248b9",
+      "firstLogin": "2022-12-22T11:00:00.434Z",
+      "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+      "account_id": "63a4389b9993b10016e248b2"
+    },
+    "team": "63a438af9993b10016e248b9",
+    "original_title": "Reverse Spine Angle/Reverse Pivot",
+    "share": 1,
+    "section_countdown": 10,
+    "background_thumbnail": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/thumbnails-converted/1676564995468-ec34633e-cea8-4301-ade5-55cddde6d098.jpg"
+  }
+}

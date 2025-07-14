@@ -1,0 +1,472 @@
+{
+  "id": "63ee5a639c08430016b20a1e",
+  "title": "S-Posture Correctives",
+  "type": "regular",
+  "background": null,
+  "level": "All",
+  "duration": "15 min",
+  "details": {
+    "_id": "63ee5a639c08430016b20a1e",
+    "sections": [
+      {
+        "_id": "64baa3d2cd284a001eb15254",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "64baa3d2cd284a001eb15251",
+            "supersets": [
+              {
+                "_id": "64baa3d2cd284a001eb15248",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ebb24a63e03500151d333b",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Pelvic Tilt Exercise",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=6fBSDaMJWGk",
+                  "preview_300": "https://img.youtube.com/vi/6fBSDaMJWGk/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/6fBSDaMJWGk/hqdefault.jpg",
+                  "createdAt": "2023-02-14T16:09:46.547Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/6fBSDaMJWGk/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Pelvic Tilt Exercise",
+                  "search_title2": "PTE",
+                  "search_title3": "pelvic tilt exercise",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:41.490Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "64baa3d2cd284a001eb15245",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://www.youtube.com/watch?v=6fBSDaMJWGk",
+                  "title": "Pelvic Tilt Exercise",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63ebb24a63e03500151d333b",
+                  "__v": 0,
+                  "createdAt": "2023-07-21T15:27:14.514Z",
+                  "updatedAt": "2023-07-21T15:27:14.514Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "64baa3d2cd284a001eb1524a",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "64baa3d2cd284a001eb15249",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee58c6ec7b2d001eefc5f0",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-07-21T15:27:14.521Z",
+                "updatedAt": "2023-07-21T15:27:14.521Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-07-21T15:27:14.529Z",
+            "updatedAt": "2023-07-21T15:27:14.529Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-07-21T15:27:14.538Z",
+        "updatedAt": "2023-07-21T15:27:14.538Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "64baa3d2cd284a001eb15255",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "64baa3d2cd284a001eb15252",
+            "supersets": [
+              {
+                "_id": "64baa3d2cd284a001eb1524b",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63c7dfcf985f3e0018fffcd5",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Glutes",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Figure 4 Bridge",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtube.com/watch?v=tQ31TVC1n-U",
+                  "preview_300": "https://img.youtube.com/vi/tQ31TVC1n-U/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/tQ31TVC1n-U/hqdefault.jpg",
+                  "createdAt": "2023-01-18T12:02:23.474Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/tQ31TVC1n-U/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Figure 4 Bridge",
+                  "search_title2": "F4B",
+                  "search_title3": "figure 4 bridge",
+                  "migrate_custom_exercise_at": "2024-03-25T12:23:18.761Z",
+                  "modality": null,
+                  "movement_patterns": [],
+                  "muscle_groups": [
+                    {
+                      "is_primary": true,
+                      "muscle_group": {
+                        "_id": "66013f86b117d35345209b17",
+                        "title": "Glutes"
+                      }
+                    }
+                  ],
+                  "migrate_search_at": "2024-03-26T12:15:42.460Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "64baa3d2cd284a001eb15246",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Glutes",
+                  "videoLink": "https://youtube.com/watch?v=tQ31TVC1n-U",
+                  "title": "Figure 4 Bridge",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63c7dfcf985f3e0018fffcd5",
+                  "__v": 0,
+                  "createdAt": "2023-07-21T15:27:14.515Z",
+                  "updatedAt": "2023-07-21T15:27:14.515Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "64baa3d2cd284a001eb1524d",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "64baa3d2cd284a001eb1524c",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee58c6ec7b2d001eefc5f0",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-07-21T15:27:14.523Z",
+                "updatedAt": "2023-07-21T15:27:14.523Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-07-21T15:27:14.531Z",
+            "updatedAt": "2023-07-21T15:27:14.531Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-07-21T15:27:14.538Z",
+        "updatedAt": "2023-07-21T15:27:14.538Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "64baa3d2cd284a001eb15256",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "64baa3d2cd284a001eb15253",
+            "supersets": [
+              {
+                "_id": "64baa3d2cd284a001eb1524e",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63bcd4cfa6a96c00171b5602",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [
+                    "Kneel with knees hip-width apart and your hands firmly placed on the ground about shoulder-width apart. Brace the abdominals.",
+                    "Practice lifting one hand and the opposite knee just an inch or two off the floor while balancing on the other hand and knee and keeping your weight centered."
+                  ],
+                  "popularity": 0,
+                  "custom": false,
+                  "from_everfit": true,
+                  "tags": [],
+                  "title": "Bird Dog",
+                  "body_part": "Lower Back",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "genders": "Female",
+                  "preview_300": "https://everfit-exercise-library.s3-us-west-1.amazonaws.com/thumbnails-converted/F40-Fthumbnail.0000000.jpg",
+                  "preview_50": "",
+                  "video": "https://everfit-exercise-library.s3-us-west-1.amazonaws.com/videos-converted/F40-F.mp4",
+                  "thumbnail_url": "https://everfit-exercise-library.s3-us-west-1.amazonaws.com/thumbnails-converted/F40-Fthumbnail.0000000.jpg",
+                  "__v": 0,
+                  "binding_system_exercise": "5ea1b835da62970352c79f33",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "createdAt": "2023-01-10T03:00:31.057Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "search_title1": "Bird Dog",
+                  "search_title2": "BD",
+                  "search_title3": "bird dog",
+                  "batch_id": "65fd40b4f32d8c1149e6a5b4",
+                  "equipment": null,
+                  "modality": {
+                    "_id": "66013e83b117d35345209b04",
+                    "title": "Strength"
+                  },
+                  "movement_patterns": [
+                    {
+                      "is_primary": true,
+                      "movement_pattern": {
+                        "_id": "66013f2fb117d35345209b09",
+                        "title": "Core Bracing"
+                      }
+                    }
+                  ],
+                  "muscle_groups": [
+                    {
+                      "is_primary": true,
+                      "muscle_group": {
+                        "_id": "662b72683492f38039adf12e",
+                        "title": "Core"
+                      }
+                    }
+                  ],
+                  "search_synonym": [
+                    "Birddog",
+                    "B",
+                    "birddog",
+                    "Bird dog",
+                    "Bd",
+                    "bird-dog"
+                  ],
+                  "synonyms": [
+                    "Birddog",
+                    "Bird-dog"
+                  ],
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "videoLink": null,
+                  "migrate_search_at": "2024-04-26T10:07:26.131Z"
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "64baa3d2cd284a001eb15247",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [
+                    "Kneel with knees hip-width apart and your hands firmly placed on the ground about shoulder-width apart. Brace the abdominals. ",
+                    "Practice lifting one hand and the opposite knee just an inch or two off the floor while balancing on the other hand and knee and keeping your weight centered."
+                  ],
+                  "body_part": "Lower Back",
+                  "title": "Bird Dog",
+                  "video": "https://everfit-exercise-library.s3-us-west-1.amazonaws.com/videos-converted/F40-F.mp4",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63bcd4cfa6a96c00171b5602",
+                  "__v": 0,
+                  "createdAt": "2023-07-21T15:27:14.516Z",
+                  "updatedAt": "2023-07-21T15:27:14.516Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "64baa3d2cd284a001eb15250",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "64baa3d2cd284a001eb1524f",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee58c6ec7b2d001eefc5f0",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-07-21T15:27:14.525Z",
+                "updatedAt": "2023-07-21T15:27:14.525Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-07-21T15:27:14.532Z",
+            "updatedAt": "2023-07-21T15:27:14.532Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-07-21T15:27:14.538Z",
+        "updatedAt": "2023-07-21T15:27:14.538Z",
+        "__v": 0,
+        "records": []
+      }
+    ],
+    "title": "S-Posture Correctives",
+    "type": "regular",
+    "description": "S-posture is actually caused by a series of muscle imbalances called a Lower Crossed Syndrome (LCS).  Lower Crossed Syndrome is basically the combination of tight hip flexors and a tight lower back, paired with weak abdominals and weak glutes. This combination leads to an excessive arching or rounding of the lower back, a flabby or protruding abdomen, and a flat butt, due to weakness in the glutes. This is a combination of muscle imbalances that causes excessive stress on the structures of the lower back",
+    "background": null,
+    "level": {
+      "item": {
+        "_id": "626bc8e08505500014baa788",
+        "name": "All"
+      },
+      "priority": 1
+    },
+    "duration": {
+      "item": {
+        "_id": "626bc8e08505500014baa793",
+        "name": "15 min"
+      },
+      "priority": 3
+    },
+    "labels": [],
+    "original_workout": "63ebb2acea83b00015c245cc",
+    "author": {
+      "_id": "63a4389b9993b10016e248b2",
+      "timezone": "America/Chicago",
+      "sex": "0",
+      "is_archived": false,
+      "email": "john@golfgains.fitness",
+      "profile_email": "john@golfgains.fitness",
+      "first_name": "John",
+      "last_name": "Irvine",
+      "full_name": "John Irvine",
+      "full_name_sort": "john irvine",
+      "is_trainer": true,
+      "trainers": [],
+      "sub_trainers": [],
+      "teams": [
+        {
+          "_id": "63a438b09993b10016e248ba",
+          "team": "63a438af9993b10016e248b9",
+          "role": 0
+        }
+      ],
+      "color": "#C49F9F",
+      "current_team": "63a438af9993b10016e248b9",
+      "firstLogin": "2022-12-22T11:00:00.434Z",
+      "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+      "account_id": "63a4389b9993b10016e248b2"
+    },
+    "team": "63a438af9993b10016e248b9",
+    "original_title": "S-Posture Correctives",
+    "original_background": null,
+    "share": 1,
+    "section_countdown": 10
+  }
+}

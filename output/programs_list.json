@@ -1,0 +1,92 @@
+[
+  {
+    "id": "681059c05f420c2c588745c6",
+    "studio_program_id": "63b70986952edf0015241525",
+    "name": "No Equipment Workouts",
+    "description": "Don't have access to any gym equipment? No problem!  This program is perfect for those that have zero equipment but still want some gains!",
+    "level": "beginner",
+    "weeks": 10,
+    "workouts": 36,
+    "cover_image": "https://everfit-studio-collection-prod.s3.us-west-1.amazonaws.com/images/1673970947765-19dc1ecc-f3e7-4b80-8bb4-74c73ce8744f.jpeg"
+  },
+  {
+    "id": "681059c15f420c2c58874800",
+    "studio_program_id": "63c87202ad54070016885dde",
+    "name": "Midseason Maintenance Mode",
+    "description": "If you are a competitive golfer in the middle of peak season, this is the perfect program to help you play your best while maintaining your gains!",
+    "level": "all_level",
+    "weeks": 8,
+    "workouts": 24,
+    "cover_image": "https://everfit-studio-collection-prod.s3.us-west-1.amazonaws.com/images/1674080881410-45af4ad9-2839-444b-8709-09b9cdbd7f28.jpeg"
+  },
+  {
+    "id": "681059c15f420c2c58875289",
+    "studio_program_id": "63c2b4a4d4a62b0016fab6ad",
+    "name": "Golf Gains For Beginners",
+    "description": "New to working out?  This 6 week beginner program is a great start for those just starting their golf fitness journey.  Each week will progress you through a variety of workouts geared to jump start your fitness and help you master some of the fundamental movements.",
+    "level": "beginner",
+    "weeks": 6,
+    "workouts": 18,
+    "cover_image": "https://everfit-studio-collection-prod.s3.us-west-1.amazonaws.com/images/1673704676628-587b4a2d-c12c-400e-ba6d-aa78dd6965c8.jpeg"
+  },
+  {
+    "id": "681059c15f420c2c588752b6",
+    "studio_program_id": "63c6c5bc3ef4d20016bef6a3",
+    "name": "Minimal Equipment Workouts",
+    "description": "If you have a kettlebell, med ball and some bands then hop on board!  This program will give you some elite workouts with just a few pieces of equipment.",
+    "level": "beginner",
+    "weeks": 23,
+    "workouts": 92,
+    "cover_image": "https://everfit-studio-collection-prod.s3.us-west-1.amazonaws.com/images/1673971157888-6a11d39b-5d6a-4414-b2a8-67b9cf8f12cc.jpeg"
+  },
+  {
+    "id": "681059c15f420c2c58875372",
+    "studio_program_id": "67793b0d24ecb32b99d62052",
+    "name": "Hybrid Golfer",
+    "description": "For golfers that want to add serious strength and build elite endurance.  This program is great for golfers wanting to train for a Hyrox.  The first 6 weeks of this program will have a heavy focus on building a foundation of strength with tempos and isometric movements as well as a base for your running.  The last 6 weeks will focus more on developing your speed along with cardio and muscular endurance.  ",
+    "level": "advanced",
+    "weeks": 12,
+    "workouts": 57,
+    "cover_image": "https://everfit-studio-collection-prod.s3.us-west-1.amazonaws.com/images/1735998240200-65441252-c8fc-4427-803c-30fad64ee11f.jpeg"
+  },
+  {
+    "id": "681059c15f420c2c58875441",
+    "studio_program_id": "654550fe348e8b001e556a9d",
+    "name": "12 Week Off-season Overhaul",
+    "description": "Make some serious gains this offseason with this 12 week program.  The first 6 weeks will focus on developing some serious strength and stability which will set the foundation to finish with 6 weeks of developing power and acceleration to get your body primed and ready for next season.",
+    "level": "intermediate",
+    "weeks": 12,
+    "workouts": 48,
+    "cover_image": "https://everfit-studio-collection-prod.s3.us-west-1.amazonaws.com/images/1699041664810-1149e167-9d88-4a18-8edc-0f93ab2b6faf.jpg"
+  },
+  {
+    "id": "681059c15f420c2c5887549d",
+    "studio_program_id": "63c6c3ed7b11bb0016a1e9f8",
+    "name": "Cart Girl Magnet",
+    "description": "Chicks don't just dig the long ball!  They also like golfers with rock hard abs and bubble butts!  This 8 week body building style program will do just that!",
+    "level": "intermediate",
+    "weeks": 18,
+    "workouts": 72,
+    "cover_image": "https://everfit-studio-collection-prod.s3.us-west-1.amazonaws.com/images/1673970683075-dd22b609-5ad5-417f-82c2-f2f994b17245.jpeg"
+  },
+  {
+    "id": "681059c25f420c2c588755a2",
+    "studio_program_id": "63c6c62292d8a000151aa00f",
+    "name": "Power Bomber Blueprint",
+    "description": "For those looking to maximize their distance off the tee.  This golf fitness program utilizes lots of heavy lifting and speed work to help you generate maximum power.  ",
+    "level": "intermediate",
+    "weeks": 29,
+    "workouts": 140,
+    "cover_image": "https://everfit-studio-collection-prod.s3.us-west-1.amazonaws.com/images/1673971263784-3246ce83-c1a3-409d-8383-496f429b83e7.jpeg"
+  },
+  {
+    "id": "681059c25f420c2c58875b70",
+    "studio_program_id": "63acb8699d968200162d68ff",
+    "name": "Look Good Swing Better",
+    "description": "This is the flagship program designed for golfers wanting to maximize their results on and off the course.  In this program you will get a good balance of mobility work, strength and conditioning, and golf specific accessory work. This program is designed for those that have access to a full gym with all types of equipment.  ",
+    "level": "intermediate",
+    "weeks": 31,
+    "workouts": 150,
+    "cover_image": "https://everfit-studio-collection-prod.s3.us-west-1.amazonaws.com/images/1672263815407-5b9483d3-b6c8-4088-acb5-e3321fdde6cd.jpeg"
+  }
+]

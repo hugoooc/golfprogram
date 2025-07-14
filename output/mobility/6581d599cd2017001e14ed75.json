@@ -1,0 +1,660 @@
+{
+  "id": "6581d599cd2017001e14ed75",
+  "title": "Mobility 1 (Ankles and Calves)",
+  "type": "regular",
+  "background": null,
+  "level": "All",
+  "duration": "15 min",
+  "details": {
+    "_id": "6581d599cd2017001e14ed75",
+    "sections": [
+      {
+        "_id": "65392524b2df1c001e50480b",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "65392524b2df1c001e504809",
+            "supersets": [
+              {
+                "_id": "65392524b2df1c001e504800",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "65391ed5825c15001e93ac0a",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [
+                    "Using a golf ball or lacrosse ball, place ball underneath the foot. Simply put a tolerable amount of pressure on the ball and roll underneath the foot."
+                  ],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Plantar Surface Smash",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=yX2DptAhtho",
+                  "preview_300": "https://img.youtube.com/vi/yX2DptAhtho/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/yX2DptAhtho/maxresdefault.jpg",
+                  "team": "63a438af9993b10016e248b9",
+                  "video_only": true,
+                  "createdAt": "2023-10-25T13:57:41.985Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/yX2DptAhtho/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "attachment_id": null,
+                  "search_title1": "Plantar Surface Smash",
+                  "search_title2": "PSS",
+                  "search_title3": "plantar surface smash",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:46.550Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "65392524b2df1c001e5047fa",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://www.youtube.com/watch?v=yX2DptAhtho",
+                  "exercise": "65391ed5825c15001e93ac0a",
+                  "title": "Plantar Surface Smash",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "__v": 0,
+                  "createdAt": "2023-10-25T14:24:36.037Z",
+                  "updatedAt": "2023-10-25T14:24:36.037Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "65392524b2df1c001e504801",
+                    "duration": {
+                      "value": "90"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "65392524b2df1c001e5047f6",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-10-25T14:24:36.045Z",
+                "updatedAt": "2023-10-25T14:24:36.045Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-10-25T14:24:36.056Z",
+            "updatedAt": "2023-10-25T14:24:36.056Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-10-25T14:24:36.063Z",
+        "updatedAt": "2023-10-25T14:24:36.063Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "65392524b2df1c001e50480c",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "65392524b2df1c001e50480a",
+            "supersets": [
+              {
+                "_id": "65392524b2df1c001e504804",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "65391f50156029001da3997c",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [
+                    "Using a foam roller, roll up/down and side to side along the entire calf. If you fell any tight spots spend some extra time pinpointing those areas"
+                  ],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Calf Smash With Foam Roller",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtu.be/0zKr371idrE",
+                  "preview_300": "https://img.youtube.com/vi/0zKr371idrE/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/0zKr371idrE/maxresdefault.jpg",
+                  "team": "63a438af9993b10016e248b9",
+                  "video_only": true,
+                  "createdAt": "2023-10-25T13:59:44.044Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/0zKr371idrE/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Calf Smash With Foam Roller",
+                  "search_title2": "CSWFR",
+                  "search_title3": "calf smash with foam roller",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:46.531Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "65392524b2df1c001e5047f9",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [
+                    "Using a foam roller, roll up/down and side to side along the entire calf. If you fell any tight spots spend some extra time pinpointing those areas"
+                  ],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://youtu.be/0zKr371idrE",
+                  "title": "Calf Smash With Foam Roller",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "65391f50156029001da3997c",
+                  "__v": 0,
+                  "createdAt": "2023-10-25T14:24:36.035Z",
+                  "updatedAt": "2023-10-25T14:24:36.035Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "65392524b2df1c001e504805",
+                    "duration": {
+                      "value": "90"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "65392524b2df1c001e5047f6",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-10-25T14:24:36.048Z",
+                "updatedAt": "2023-10-25T14:24:36.048Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-10-25T14:24:36.056Z",
+            "updatedAt": "2023-10-25T14:24:36.056Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-10-25T14:24:36.063Z",
+        "updatedAt": "2023-10-25T14:24:36.063Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "65392524b2df1c001e50480d",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "65392524b2df1c001e504808",
+            "supersets": [
+              {
+                "_id": "65392524b2df1c001e504802",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "65391f9bb19a1d001f3dc5af",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [
+                    "Pike you hips in the air so just your hands and toes are touching the ground. Drive your heal into the ground and hold for 1-2 seconds alternating each side"
+                  ],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Downward Dog Alternating Press Down",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtu.be/L3RkgmAbU20",
+                  "preview_300": "https://img.youtube.com/vi/L3RkgmAbU20/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/L3RkgmAbU20/maxresdefault.jpg",
+                  "team": "63a438af9993b10016e248b9",
+                  "video_only": true,
+                  "createdAt": "2023-10-25T14:00:59.225Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/L3RkgmAbU20/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Downward Dog Alternating Press Down",
+                  "search_title2": "DDAPD",
+                  "search_title3": "downward dog alternating press down",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:46.531Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "65392524b2df1c001e5047fb",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [
+                    "Pike you hips in the air so just your hands and toes are touching the ground. Drive your heal into the ground and hold for 1-2 seconds alternating each side"
+                  ],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://youtu.be/L3RkgmAbU20",
+                  "title": "Downward Dog Alternating Press Down",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "65391f9bb19a1d001f3dc5af",
+                  "__v": 0,
+                  "createdAt": "2023-10-25T14:24:36.038Z",
+                  "updatedAt": "2023-10-25T14:24:36.038Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "65392524b2df1c001e504803",
+                    "reps": {
+                      "value": "15"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "65392524b2df1c001e5047f6",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-10-25T14:24:36.046Z",
+                "updatedAt": "2023-10-25T14:24:36.046Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-10-25T14:24:36.054Z",
+            "updatedAt": "2023-10-25T14:24:36.054Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-10-25T14:24:36.063Z",
+        "updatedAt": "2023-10-25T14:24:36.063Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "65392524b2df1c001e50480e",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "65392524b2df1c001e504807",
+            "supersets": [
+              {
+                "_id": "65392524b2df1c001e5047fe",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "65391fe0a725fe001fc1c082",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [
+                    "In a kneeling position, drive your knee forward over your toes while keeping your heal down. Add slight rotations to open up different areas of the ankle"
+                  ],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Box Assisted Ankle Dorsiflexion",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtu.be/iSjV8q4Ul2Y",
+                  "preview_300": "https://img.youtube.com/vi/iSjV8q4Ul2Y/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/iSjV8q4Ul2Y/maxresdefault.jpg",
+                  "team": "63a438af9993b10016e248b9",
+                  "video_only": true,
+                  "createdAt": "2023-10-25T14:02:08.643Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/iSjV8q4Ul2Y/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Box Assisted Ankle Dorsiflexion",
+                  "search_title2": "BAAD",
+                  "search_title3": "box assisted ankle dorsiflexion",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:46.531Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "65392524b2df1c001e5047f8",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [
+                    "In a kneeling position, drive your knee forward over your toes while keeping your heal down. Add slight rotations to open up different areas of the ankle"
+                  ],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://youtu.be/iSjV8q4Ul2Y",
+                  "title": "Box Assisted Ankle Dorsiflexion",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "65391fe0a725fe001fc1c082",
+                  "__v": 0,
+                  "createdAt": "2023-10-25T14:24:36.034Z",
+                  "updatedAt": "2023-10-25T14:24:36.034Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "65392524b2df1c001e5047ff",
+                    "duration": {
+                      "value": "90"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "65392524b2df1c001e5047f6",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-10-25T14:24:36.043Z",
+                "updatedAt": "2023-10-25T14:24:36.043Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-10-25T14:24:36.051Z",
+            "updatedAt": "2023-10-25T14:24:36.051Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-10-25T14:24:36.063Z",
+        "updatedAt": "2023-10-25T14:24:36.063Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "65392524b2df1c001e50480f",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "65392524b2df1c001e504806",
+            "supersets": [
+              {
+                "_id": "65392524b2df1c001e5047fc",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63af4d56e212c8001652dbe4",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [
+                    "In a seated position hold underneath your knee so your ankle is in the air. Perform 10 full rotations clockwise and 10 full rotations counter clockwise. Focus on trying to make the biggest circles you can with your toes."
+                  ],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "ankle cars",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtu.be/qyA1_QhDxPk",
+                  "preview_300": "https://img.youtube.com/vi/qyA1_QhDxPk/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/qyA1_QhDxPk/maxresdefault.jpg",
+                  "createdAt": "2022-12-30T20:43:02.211Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/qyA1_QhDxPk/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "attachment_id": null,
+                  "video_only": true,
+                  "search_title1": "ankle cars",
+                  "search_title2": "ac",
+                  "search_title3": "ankle cars",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:40.180Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "65392524b2df1c001e5047f7",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://www.youtube.com/watch?v=T1GgZ-Qxhyk",
+                  "exercise": "63af4d56e212c8001652dbe4",
+                  "title": "ankle cars",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "__v": 0,
+                  "createdAt": "2023-10-25T14:24:36.032Z",
+                  "updatedAt": "2023-10-25T14:24:36.032Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "65392524b2df1c001e5047fd",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "duration": {
+                      "value": ""
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "65392524b2df1c001e5047f6",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-10-25T14:24:36.041Z",
+                "updatedAt": "2023-10-25T14:24:36.041Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-10-25T14:24:36.051Z",
+            "updatedAt": "2023-10-25T14:24:36.051Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-10-25T14:24:36.063Z",
+        "updatedAt": "2023-10-25T14:24:36.063Z",
+        "__v": 0,
+        "records": []
+      }
+    ],
+    "title": "Mobility 1 (Ankles and Calves)",
+    "type": "regular",
+    "description": "",
+    "level": {
+      "item": {
+        "_id": "626bc8e08505500014baa788",
+        "name": "All"
+      },
+      "priority": 1
+    },
+    "duration": {
+      "item": {
+        "_id": "626bc8e08505500014baa793",
+        "name": "15 min"
+      },
+      "priority": 3
+    },
+    "labels": [],
+    "original_workout": "65392042be4311001e39a101",
+    "author": {
+      "_id": "63a4389b9993b10016e248b2",
+      "timezone": "America/Chicago",
+      "sex": "0",
+      "is_archived": false,
+      "email": "john@golfgains.fitness",
+      "profile_email": "john@golfgains.fitness",
+      "first_name": "John",
+      "last_name": "Irvine",
+      "full_name": "John Irvine",
+      "full_name_sort": "john irvine",
+      "is_trainer": true,
+      "trainers": [],
+      "sub_trainers": [],
+      "teams": [
+        {
+          "_id": "63a438b09993b10016e248ba",
+          "team": "63a438af9993b10016e248b9",
+          "role": 0
+        }
+      ],
+      "color": "#C49F9F",
+      "current_team": "63a438af9993b10016e248b9",
+      "firstLogin": "2022-12-22T11:00:00.434Z",
+      "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+      "account_id": "63a4389b9993b10016e248b2"
+    },
+    "team": "63a438af9993b10016e248b9",
+    "original_title": "Mobility 1 (Ankles and Calves)",
+    "share": 1,
+    "section_countdown": 10
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "id": "6581d599cd2017001e14ed76",
+  "title": "Mobility 2 (Upper Leg)",
+  "type": "regular",
+  "background": null,
+  "level": "All",
+  "duration": "15 min",
+  "details": {
+    "_id": "6581d599cd2017001e14ed76",
+    "sections": [
+      {
+        "_id": "6539253629d00b001edd541f",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "6539253629d00b001edd541b",
+            "supersets": [
+              {
+                "_id": "6539253629d00b001edd5413",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "65392085a19284001e4bbae1",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [
+                    "Using a lax ball lie down and apply pressure to front of your upper hip. Roll the ball around and spend some extra time on the tight spots you may feel"
+                  ],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76016",
+                  "category_type_name": "Timed",
+                  "title": "Front Hip Pocket Smash",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtu.be/-SnIOCibjVE",
+                  "preview_300": "https://img.youtube.com/vi/-SnIOCibjVE/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/-SnIOCibjVE/maxresdefault.jpg",
+                  "team": "63a438af9993b10016e248b9",
+                  "video_only": true,
+                  "createdAt": "2023-10-25T14:04:53.284Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/-SnIOCibjVE/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Front Hip Pocket Smash",
+                  "search_title2": "FHPS",
+                  "search_title3": "front hip pocket smash",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:46.531Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "6539253629d00b001edd5410",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [
+                    "Using a lax ball lie down and apply pressure to front of your upper hip. Roll the ball around and spend some extra time on the tight spots you may feel"
+                  ],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://youtu.be/-SnIOCibjVE",
+                  "title": "Front Hip Pocket Smash",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76016",
+                  "exercise": "65392085a19284001e4bbae1",
+                  "__v": 0,
+                  "createdAt": "2023-10-25T14:24:54.259Z",
+                  "updatedAt": "2023-10-25T14:24:54.259Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "6539253629d00b001edd5414",
+                    "duration": {
+                      "value": "90"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "6539253629d00b001edd540e",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-10-25T14:24:54.269Z",
+                "updatedAt": "2023-10-25T14:24:54.269Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-10-25T14:24:54.279Z",
+            "updatedAt": "2023-10-25T14:24:54.279Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-10-25T14:24:54.292Z",
+        "updatedAt": "2023-10-25T14:24:54.292Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "6539253629d00b001edd5420",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "6539253629d00b001edd541d",
+            "supersets": [
+              {
+                "_id": "6539253629d00b001edd5417",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "653920c6ef8160001f13b911",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [
+                    "Using a foam roller, lie down in a prone position and roll up/down and side to side along the entire quad and inner thigh areas.. If you feel any tight spots spend some extra time pinpointing those areas"
+                  ],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76016",
+                  "category_type_name": "Timed",
+                  "title": "Full Quad and Adductor Smash",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtu.be/Ep9cOrVUFY0",
+                  "preview_300": "https://img.youtube.com/vi/Ep9cOrVUFY0/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/Ep9cOrVUFY0/maxresdefault.jpg",
+                  "team": "63a438af9993b10016e248b9",
+                  "video_only": true,
+                  "createdAt": "2023-10-25T14:05:58.751Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/Ep9cOrVUFY0/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Full Quad and Adductor Smash",
+                  "search_title2": "FQaAS",
+                  "search_title3": "full quad and adductor smash",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:46.531Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "6539253629d00b001edd5411",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [
+                    "Using a foam roller, lie down in a prone position and roll up/down and side to side along the entire quad and inner thigh areas.. If you feel any tight spots spend some extra time pinpointing those areas"
+                  ],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://youtu.be/Ep9cOrVUFY0",
+                  "title": "Full Quad and Adductor Smash",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76016",
+                  "exercise": "653920c6ef8160001f13b911",
+                  "__v": 0,
+                  "createdAt": "2023-10-25T14:24:54.262Z",
+                  "updatedAt": "2023-10-25T14:24:54.262Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "6539253629d00b001edd5418",
+                    "duration": {
+                      "value": "90"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "6539253629d00b001edd540e",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-10-25T14:24:54.274Z",
+                "updatedAt": "2023-10-25T14:24:54.274Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-10-25T14:24:54.282Z",
+            "updatedAt": "2023-10-25T14:24:54.282Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-10-25T14:24:54.292Z",
+        "updatedAt": "2023-10-25T14:24:54.292Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "6539253629d00b001edd5421",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "6539253629d00b001edd541c",
+            "supersets": [
+              {
+                "_id": "6539253629d00b001edd5415",
+                "alternatives": [],
+                "each_side": true,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63a8a085357ede0016fb7ce4",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [
+                    "Starting in a lunge position, lift and place your rear shin up against a solid surface. Once in posittion press your hips forward to feel stretch in quadriceps"
+                  ],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [
+                    "63a4bfdbcbaa61001a5e4c8c"
+                  ],
+                  "body_part": "Quadriceps",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Couch Stretch",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtu.be/RlNLOmZQ4SM",
+                  "preview_300": "https://img.youtube.com/vi/RlNLOmZQ4SM/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/RlNLOmZQ4SM/maxresdefault.jpg",
+                  "createdAt": "2022-12-25T19:12:05.928Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/RlNLOmZQ4SM/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "attachment_id": null,
+                  "video_only": true,
+                  "search_title1": "Couch Stretch",
+                  "search_title2": "CS",
+                  "search_title3": "couch stretch",
+                  "migrate_custom_exercise_at": "2024-03-25T12:21:59.624Z",
+                  "modality": null,
+                  "movement_patterns": [],
+                  "muscle_groups": [
+                    {
+                      "is_primary": true,
+                      "muscle_group": {
+                        "_id": "66013f86b117d35345209b1c",
+                        "title": "Quads"
+                      }
+                    }
+                  ],
+                  "migrate_search_at": "2024-03-26T12:15:40.499Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "6539253629d00b001edd540f",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Quadriceps",
+                  "videoLink": "https://youtu.be/RlNLOmZQ4SM",
+                  "exercise": "63a8a085357ede0016fb7ce4",
+                  "title": "Couch Stretch",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "__v": 0,
+                  "createdAt": "2023-10-25T14:24:54.257Z",
+                  "updatedAt": "2023-10-25T14:24:54.257Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "6539253629d00b001edd5416",
+                    "reps": {
+                      "value": ""
+                    },
+                    "duration": {
+                      "value": "90"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "6539253629d00b001edd540e",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-10-25T14:24:54.271Z",
+                "updatedAt": "2023-10-25T14:24:54.271Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-10-25T14:24:54.279Z",
+            "updatedAt": "2023-10-25T14:24:54.279Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-10-25T14:24:54.292Z",
+        "updatedAt": "2023-10-25T14:24:54.292Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "6539253629d00b001edd5422",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "6539253629d00b001edd541e",
+            "supersets": [
+              {
+                "_id": "6539253629d00b001edd5419",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "6539214a773bb0001f8023fe",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76016",
+                  "category_type_name": "Timed",
+                  "title": "Seated Straddle Forward Fold",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtu.be/vpZqnLjvvbs",
+                  "preview_300": "https://img.youtube.com/vi/vpZqnLjvvbs/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/vpZqnLjvvbs/maxresdefault.jpg",
+                  "team": "63a438af9993b10016e248b9",
+                  "video_only": true,
+                  "createdAt": "2023-10-25T14:08:10.773Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/vpZqnLjvvbs/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Seated Straddle Forward Fold",
+                  "search_title2": "SSFF",
+                  "search_title3": "seated straddle forward fold",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:46.462Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "6539253629d00b001edd5412",
+                  "fields": [
+                    "5cd912bb19ae01d22ea76006",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://youtu.be/vpZqnLjvvbs",
+                  "title": "Seated Straddle Forward Fold",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76016",
+                  "exercise": "6539214a773bb0001f8023fe",
+                  "__v": 0,
+                  "createdAt": "2023-10-25T14:24:54.263Z",
+                  "updatedAt": "2023-10-25T14:24:54.263Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "6539253629d00b001edd541a",
+                    "duration": {
+                      "value": "90"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "6539253629d00b001edd540e",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-10-25T14:24:54.277Z",
+                "updatedAt": "2023-10-25T14:24:54.277Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-10-25T14:24:54.284Z",
+            "updatedAt": "2023-10-25T14:24:54.284Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-10-25T14:24:54.292Z",
+        "updatedAt": "2023-10-25T14:24:54.292Z",
+        "__v": 0,
+        "records": []
+      }
+    ],
+    "title": "Mobility 2 (Upper Leg)",
+    "type": "regular",
+    "description": "",
+    "level": {
+      "item": {
+        "_id": "626bc8e08505500014baa788",
+        "name": "All"
+      },
+      "priority": 1
+    },
+    "duration": {
+      "item": {
+        "_id": "626bc8e08505500014baa793",
+        "name": "15 min"
+      },
+      "priority": 3
+    },
+    "labels": [],
+    "original_workout": "6539216c660040001ef5269f",
+    "author": {
+      "_id": "63a4389b9993b10016e248b2",
+      "timezone": "America/Chicago",
+      "sex": "0",
+      "is_archived": false,
+      "email": "john@golfgains.fitness",
+      "profile_email": "john@golfgains.fitness",
+      "first_name": "John",
+      "last_name": "Irvine",
+      "full_name": "John Irvine",
+      "full_name_sort": "john irvine",
+      "is_trainer": true,
+      "trainers": [],
+      "sub_trainers": [],
+      "teams": [
+        {
+          "_id": "63a438b09993b10016e248ba",
+          "team": "63a438af9993b10016e248b9",
+          "role": 0
+        }
+      ],
+      "color": "#C49F9F",
+      "current_team": "63a438af9993b10016e248b9",
+      "firstLogin": "2022-12-22T11:00:00.434Z",
+      "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+      "account_id": "63a4389b9993b10016e248b2"
+    },
+    "team": "63a438af9993b10016e248b9",
+    "original_title": "Mobility 2 (Upper Leg)",
+    "share": 1,
+    "section_countdown": 10
+  }
+}

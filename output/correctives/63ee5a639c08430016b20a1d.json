@@ -1,0 +1,610 @@
+{
+  "id": "63ee5a639c08430016b20a1d",
+  "title": "C-Posture Correctives",
+  "type": "regular",
+  "background": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/images/1676564616501-22d4257f-586a-4e6a-8f91-acfc400712ee.jpg",
+  "level": "All",
+  "duration": "15 min",
+  "details": {
+    "_id": "63ee5a639c08430016b20a1d",
+    "sections": [
+      {
+        "_id": "63ee588fe3b4f400166fc33c",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee588fe3b4f400166fc33b",
+            "supersets": [
+              {
+                "_id": "63ee588fe3b4f400166fc332",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ebaedf14ac73001629dd8a",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Supinated Elbow On Bench Lat Stretch",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://youtube.com/watch?v=6g8WnsphAwc",
+                  "preview_300": "https://img.youtube.com/vi/6g8WnsphAwc/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/6g8WnsphAwc/hqdefault.jpg",
+                  "createdAt": "2023-02-14T15:55:11.190Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/6g8WnsphAwc/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Supinated Elbow On Bench Lat Stretch",
+                  "search_title2": "SEOBLS",
+                  "search_title3": "supinated elbow on bench lat stretch",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:41.491Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee588fe3b4f400166fc328",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://youtube.com/watch?v=6g8WnsphAwc",
+                  "title": "Supinated Elbow On Bench Lat Stretch",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63ebaedf14ac73001629dd8a",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:23:43.284Z",
+                  "updatedAt": "2023-02-16T16:23:43.284Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee588fe3b4f400166fc334",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee588fe3b4f400166fc333",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee588fe3b4f400166fc327",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:23:43.315Z",
+                "updatedAt": "2023-02-16T16:23:43.315Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:23:43.333Z",
+            "updatedAt": "2023-02-16T16:23:43.333Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:23:43.344Z",
+        "updatedAt": "2023-02-16T16:23:43.344Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee588fe3b4f400166fc33d",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee588fe3b4f400166fc33a",
+            "supersets": [
+              {
+                "_id": "63ee588fe3b4f400166fc32f",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ebaf6536f4a50016094971",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "title": "Banded Overhead Squat",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=xMEF15uHfhM",
+                  "preview_300": "https://img.youtube.com/vi/xMEF15uHfhM/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/xMEF15uHfhM/hqdefault.jpg",
+                  "createdAt": "2023-02-14T15:57:25.931Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/xMEF15uHfhM/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Banded Overhead Squat",
+                  "search_title2": "BOS",
+                  "search_title3": "banded overhead squat",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:41.491Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee588fe3b4f400166fc32b",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://www.youtube.com/watch?v=xMEF15uHfhM",
+                  "title": "Banded Overhead Squat",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63ebaf6536f4a50016094971",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:23:43.292Z",
+                  "updatedAt": "2023-02-16T16:23:43.292Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee588fe3b4f400166fc331",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee588fe3b4f400166fc330",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee588fe3b4f400166fc327",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:23:43.306Z",
+                "updatedAt": "2023-02-16T16:23:43.306Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:23:43.333Z",
+            "updatedAt": "2023-02-16T16:23:43.333Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:23:43.344Z",
+        "updatedAt": "2023-02-16T16:23:43.344Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee588fe3b4f400166fc33e",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee588fe3b4f400166fc338",
+            "supersets": [
+              {
+                "_id": "63ee588fe3b4f400166fc32c",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ebb0868431bc00160ebe5e",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [],
+                  "popularity": 0,
+                  "custom": true,
+                  "from_everfit": false,
+                  "tags": [],
+                  "body_part": "Movement Prep",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "category_type_name": "Strength",
+                  "title": "Overhead Lat Stretch With Dowel",
+                  "link": "",
+                  "video": "",
+                  "videoLink": "https://www.youtube.com/watch?v=Eb_9dBGF5Ag",
+                  "preview_300": "https://img.youtube.com/vi/Eb_9dBGF5Ag/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/Eb_9dBGF5Ag/hqdefault.jpg",
+                  "createdAt": "2023-02-14T16:02:14.031Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "__v": 0,
+                  "preview_50": "https://img.youtube.com/vi/Eb_9dBGF5Ag/default.jpg",
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "search_title1": "Overhead Lat Stretch With Dowel",
+                  "search_title2": "OLSWD",
+                  "search_title3": "overhead lat stretch with dowel",
+                  "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                  "modality": {
+                    "_id": "66013e83b117d35345209aff",
+                    "title": "Activation"
+                  },
+                  "movement_patterns": [],
+                  "muscle_groups": [],
+                  "migrate_search_at": "2024-03-26T12:15:41.491Z",
+                  "search_synonym": null
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee588fe3b4f400166fc32a",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600d",
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [],
+                  "body_part": "Movement Prep",
+                  "videoLink": "https://www.youtube.com/watch?v=Eb_9dBGF5Ag",
+                  "title": "Overhead Lat Stretch With Dowel",
+                  "link": "",
+                  "video": "",
+                  "category_type": "5cd912c319ae01d22ea76012",
+                  "exercise": "63ebb0868431bc00160ebe5e",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:23:43.290Z",
+                  "updatedAt": "2023-02-16T16:23:43.290Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee588fe3b4f400166fc32e",
+                    "weight": {
+                      "value": "",
+                      "set_unit": {
+                        "_id": "5c40aa79690c9d44eafb575d",
+                        "ratio": 1,
+                        "name": "Pound",
+                        "unique_code": "lb",
+                        "createdAt": "2019-01-17T16:16:57.762Z",
+                        "updatedAt": "2022-03-28T08:56:56.453Z",
+                        "__v": 0,
+                        "title": "lb"
+                      }
+                    },
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee588fe3b4f400166fc32d",
+                    "weight": {
+                      "value": "",
+                      "set_unit": {
+                        "_id": "5c40aa79690c9d44eafb575d",
+                        "ratio": 1,
+                        "name": "Pound",
+                        "unique_code": "lb",
+                        "createdAt": "2019-01-17T16:16:57.762Z",
+                        "updatedAt": "2022-03-28T08:56:56.453Z",
+                        "__v": 0,
+                        "title": "lb"
+                      }
+                    },
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee588fe3b4f400166fc327",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:23:43.301Z",
+                "updatedAt": "2023-02-16T16:23:43.301Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:23:43.333Z",
+            "updatedAt": "2023-02-16T16:23:43.333Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:23:43.344Z",
+        "updatedAt": "2023-02-16T16:23:43.344Z",
+        "__v": 0,
+        "records": []
+      },
+      {
+        "_id": "63ee588fe3b4f400166fc33f",
+        "type": "hidden",
+        "format": "regular",
+        "exercises": [
+          {
+            "_id": "63ee588fe3b4f400166fc339",
+            "supersets": [
+              {
+                "_id": "63ee588fe3b4f400166fc335",
+                "alternatives": [],
+                "each_side": false,
+                "records_history": [],
+                "exercise": {
+                  "_id": "63ebb10060d48e0017b93aa1",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "share": 0,
+                  "picture": [],
+                  "instructions": [
+                    "Scapular Push-Up begins in a high plank position, with hands aligned beneath the shoulders, arms straight, core braced with a PPT (posterior pelvic tilt), legs straight, with legs and feet together.",
+                    "Keep the arms straight throughout the entire movement.",
+                    "To initiate the movement, retract the shoulder blades together, and allow the chest to sink down.",
+                    "Then, protract (round) through the upper back and push up through the center of the chest."
+                  ],
+                  "popularity": 0,
+                  "custom": false,
+                  "from_everfit": true,
+                  "tags": [],
+                  "title": "Scapular Push Up",
+                  "body_part": "Chest",
+                  "videoLink": "https://youtu.be/XaQOAQwmNQ8",
+                  "preview_50": "https://img.youtube.com/vi/XaQOAQwmNQ8/default.jpg",
+                  "preview_300": "https://img.youtube.com/vi/XaQOAQwmNQ8/hqdefault.jpg",
+                  "thumbnail_url": "https://img.youtube.com/vi/XaQOAQwmNQ8/maxresdefault.jpg",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "category_type_name": "Bodyweight",
+                  "__v": 0,
+                  "binding_system_exercise": "5f735fc59292260016fdf617",
+                  "author": "63a4389b9993b10016e248b2",
+                  "author_name": "John Irvine",
+                  "createdAt": "2023-02-14T16:04:16.579Z",
+                  "updatedAt": "2025-04-29T12:59:14.522Z",
+                  "search_title1": "Scapular Push Up",
+                  "search_title2": "SPU",
+                  "search_title3": "scapular push up",
+                  "batch_id": "65fd40b4f32d8c1149e6a5b4",
+                  "equipment": null,
+                  "modality": {
+                    "_id": "66013e83b117d35345209b01",
+                    "title": "Mobility"
+                  },
+                  "movement_patterns": [
+                    {
+                      "is_primary": true,
+                      "movement_pattern": {
+                        "_id": "66013f2fb117d35345209b0e",
+                        "title": "Upper Body Horizontal Push"
+                      }
+                    }
+                  ],
+                  "muscle_groups": [
+                    {
+                      "is_primary": true,
+                      "muscle_group": {
+                        "_id": "66013f86b117d35345209b1e",
+                        "title": "Upper Back & Neck"
+                      }
+                    }
+                  ],
+                  "search_synonym": [],
+                  "synonyms": [],
+                  "thumbnail_height": null,
+                  "thumbnail_url_with_play_button": "",
+                  "thumbnail_width": null,
+                  "video": null,
+                  "migrate_search_at": "2024-03-26T12:15:41.490Z"
+                },
+                "tempo": "0",
+                "exercise_instance": {
+                  "_id": "63ee588fe3b4f400166fc329",
+                  "fields": [
+                    "5cd912bb19ae01d22ea7600b",
+                    "5cd912bb19ae01d22ea76011"
+                  ],
+                  "picture": [],
+                  "instructions": [
+                    "Keep arms and elbows locked out the entire duration of the movement.",
+                    "Beginning at the top of a pushup, descend your chest and retract your shoulder blades while the arms remain straight",
+                    "Press back up by bringing the shoulder blades back apart."
+                  ],
+                  "body_part": "Chest",
+                  "videoLink": "https://www.youtube.com/watch?v=_QAOkdo9-2A",
+                  "title": "Scapular Push Up",
+                  "category_type": "5cd912c319ae01d22ea76013",
+                  "exercise": "63ebb10060d48e0017b93aa1",
+                  "__v": 0,
+                  "createdAt": "2023-02-16T16:23:43.287Z",
+                  "updatedAt": "2023-02-16T16:23:43.287Z"
+                },
+                "training_sets": [
+                  {
+                    "is_completed": false,
+                    "_id": "63ee588fe3b4f400166fc337",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "is_completed": false,
+                    "_id": "63ee588fe3b4f400166fc336",
+                    "reps": {
+                      "value": "10"
+                    },
+                    "rest": {
+                      "value": ""
+                    }
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "container": "on_demand_workout_library_item",
+                "link": "63ee588fe3b4f400166fc327",
+                "type": "on_demand_workout_library_item",
+                "parent_section_type": "hidden",
+                "__v": 0,
+                "createdAt": "2023-02-16T16:23:43.323Z",
+                "updatedAt": "2023-02-16T16:23:43.323Z"
+              }
+            ],
+            "user": "63a4389b9993b10016e248b2",
+            "createdAt": "2023-02-16T16:23:43.333Z",
+            "updatedAt": "2023-02-16T16:23:43.333Z",
+            "__v": 0
+          }
+        ],
+        "exercise_references": [],
+        "user": "63a4389b9993b10016e248b2",
+        "attachments": [],
+        "createdAt": "2023-02-16T16:23:43.344Z",
+        "updatedAt": "2023-02-16T16:23:43.344Z",
+        "__v": 0,
+        "records": []
+      }
+    ],
+    "title": "C-Posture Correctives",
+    "type": "regular",
+    "description": "The most significant joint restriction seen in the C-Posture is the lack of thoracic spine extension. That limitation can make it difficult to eliminate the C-Posture. This can lead to a severe loss of spinal rotation, which in turn limits the ability to create a good backswing turn.\n\nTo correct C-posture it is important to address the tight muscles (Pecs, traps, lats) and strengthen the weak muscles (Serratus Anterior, lower traps))",
+    "background": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/images/1676564616501-22d4257f-586a-4e6a-8f91-acfc400712ee.jpg",
+    "level": {
+      "item": {
+        "_id": "626bc8e08505500014baa788",
+        "name": "All"
+      },
+      "priority": 1
+    },
+    "duration": {
+      "item": {
+        "_id": "626bc8e08505500014baa793",
+        "name": "15 min"
+      },
+      "priority": 3
+    },
+    "labels": [],
+    "original_workout": "63ebb10060d48e0017b93a92",
+    "author": {
+      "_id": "63a4389b9993b10016e248b2",
+      "timezone": "America/Chicago",
+      "sex": "0",
+      "is_archived": false,
+      "email": "john@golfgains.fitness",
+      "profile_email": "john@golfgains.fitness",
+      "first_name": "John",
+      "last_name": "Irvine",
+      "full_name": "John Irvine",
+      "full_name_sort": "john irvine",
+      "is_trainer": true,
+      "trainers": [],
+      "sub_trainers": [],
+      "teams": [
+        {
+          "_id": "63a438b09993b10016e248ba",
+          "team": "63a438af9993b10016e248b9",
+          "role": 0
+        }
+      ],
+      "color": "#C49F9F",
+      "current_team": "63a438af9993b10016e248b9",
+      "firstLogin": "2022-12-22T11:00:00.434Z",
+      "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+      "account_id": "63a4389b9993b10016e248b2"
+    },
+    "team": "63a438af9993b10016e248b9",
+    "original_title": "C-Posture Correctives",
+    "share": 1,
+    "section_countdown": 10,
+    "background_thumbnail": "https://everfit-on-demand-workout-prod.s3.us-west-1.amazonaws.com/thumbnails-converted/1676564616501-22d4257f-586a-4e6a-8f91-acfc400712ee.jpg"
+  }
+}

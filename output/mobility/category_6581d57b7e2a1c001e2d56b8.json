@@ -1,0 +1,3263 @@
+{
+  "id": "6581d57b7e2a1c001e2d56b8",
+  "name": "Mobility Workouts",
+  "total_workouts": 5,
+  "workouts": [
+    {
+      "id": "6581d599cd2017001e14ed75",
+      "title": "Mobility 1 (Ankles and Calves)",
+      "type": "regular",
+      "background": null,
+      "level": "All",
+      "duration": "15 min",
+      "details": {
+        "_id": "6581d599cd2017001e14ed75",
+        "sections": [
+          {
+            "_id": "65392524b2df1c001e50480b",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "65392524b2df1c001e504809",
+                "supersets": [
+                  {
+                    "_id": "65392524b2df1c001e504800",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "65391ed5825c15001e93ac0a",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [
+                        "Using a golf ball or lacrosse ball, place ball underneath the foot. Simply put a tolerable amount of pressure on the ball and roll underneath the foot."
+                      ],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "Plantar Surface Smash",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://www.youtube.com/watch?v=yX2DptAhtho",
+                      "preview_300": "https://img.youtube.com/vi/yX2DptAhtho/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/yX2DptAhtho/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T13:57:41.985Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/yX2DptAhtho/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "attachment_id": null,
+                      "search_title1": "Plantar Surface Smash",
+                      "search_title2": "PSS",
+                      "search_title3": "plantar surface smash",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.550Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "65392524b2df1c001e5047fa",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://www.youtube.com/watch?v=yX2DptAhtho",
+                      "exercise": "65391ed5825c15001e93ac0a",
+                      "title": "Plantar Surface Smash",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:24:36.037Z",
+                      "updatedAt": "2023-10-25T14:24:36.037Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "65392524b2df1c001e504801",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "65392524b2df1c001e5047f6",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:24:36.045Z",
+                    "updatedAt": "2023-10-25T14:24:36.045Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:24:36.056Z",
+                "updatedAt": "2023-10-25T14:24:36.056Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:24:36.063Z",
+            "updatedAt": "2023-10-25T14:24:36.063Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "65392524b2df1c001e50480c",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "65392524b2df1c001e50480a",
+                "supersets": [
+                  {
+                    "_id": "65392524b2df1c001e504804",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "65391f50156029001da3997c",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [
+                        "Using a foam roller, roll up/down and side to side along the entire calf. If you fell any tight spots spend some extra time pinpointing those areas"
+                      ],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "Calf Smash With Foam Roller",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/0zKr371idrE",
+                      "preview_300": "https://img.youtube.com/vi/0zKr371idrE/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/0zKr371idrE/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T13:59:44.044Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/0zKr371idrE/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Calf Smash With Foam Roller",
+                      "search_title2": "CSWFR",
+                      "search_title3": "calf smash with foam roller",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.531Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "65392524b2df1c001e5047f9",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [
+                        "Using a foam roller, roll up/down and side to side along the entire calf. If you fell any tight spots spend some extra time pinpointing those areas"
+                      ],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/0zKr371idrE",
+                      "title": "Calf Smash With Foam Roller",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "exercise": "65391f50156029001da3997c",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:24:36.035Z",
+                      "updatedAt": "2023-10-25T14:24:36.035Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "65392524b2df1c001e504805",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "65392524b2df1c001e5047f6",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:24:36.048Z",
+                    "updatedAt": "2023-10-25T14:24:36.048Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:24:36.056Z",
+                "updatedAt": "2023-10-25T14:24:36.056Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:24:36.063Z",
+            "updatedAt": "2023-10-25T14:24:36.063Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "65392524b2df1c001e50480d",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "65392524b2df1c001e504808",
+                "supersets": [
+                  {
+                    "_id": "65392524b2df1c001e504802",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "65391f9bb19a1d001f3dc5af",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [
+                        "Pike you hips in the air so just your hands and toes are touching the ground. Drive your heal into the ground and hold for 1-2 seconds alternating each side"
+                      ],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "Downward Dog Alternating Press Down",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/L3RkgmAbU20",
+                      "preview_300": "https://img.youtube.com/vi/L3RkgmAbU20/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/L3RkgmAbU20/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:00:59.225Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/L3RkgmAbU20/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Downward Dog Alternating Press Down",
+                      "search_title2": "DDAPD",
+                      "search_title3": "downward dog alternating press down",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.531Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "65392524b2df1c001e5047fb",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [
+                        "Pike you hips in the air so just your hands and toes are touching the ground. Drive your heal into the ground and hold for 1-2 seconds alternating each side"
+                      ],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/L3RkgmAbU20",
+                      "title": "Downward Dog Alternating Press Down",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "exercise": "65391f9bb19a1d001f3dc5af",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:24:36.038Z",
+                      "updatedAt": "2023-10-25T14:24:36.038Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "65392524b2df1c001e504803",
+                        "reps": {
+                          "value": "15"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "65392524b2df1c001e5047f6",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:24:36.046Z",
+                    "updatedAt": "2023-10-25T14:24:36.046Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:24:36.054Z",
+                "updatedAt": "2023-10-25T14:24:36.054Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:24:36.063Z",
+            "updatedAt": "2023-10-25T14:24:36.063Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "65392524b2df1c001e50480e",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "65392524b2df1c001e504807",
+                "supersets": [
+                  {
+                    "_id": "65392524b2df1c001e5047fe",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "65391fe0a725fe001fc1c082",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [
+                        "In a kneeling position, drive your knee forward over your toes while keeping your heal down. Add slight rotations to open up different areas of the ankle"
+                      ],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "Box Assisted Ankle Dorsiflexion",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/iSjV8q4Ul2Y",
+                      "preview_300": "https://img.youtube.com/vi/iSjV8q4Ul2Y/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/iSjV8q4Ul2Y/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:02:08.643Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/iSjV8q4Ul2Y/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Box Assisted Ankle Dorsiflexion",
+                      "search_title2": "BAAD",
+                      "search_title3": "box assisted ankle dorsiflexion",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.531Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "65392524b2df1c001e5047f8",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [
+                        "In a kneeling position, drive your knee forward over your toes while keeping your heal down. Add slight rotations to open up different areas of the ankle"
+                      ],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/iSjV8q4Ul2Y",
+                      "title": "Box Assisted Ankle Dorsiflexion",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "exercise": "65391fe0a725fe001fc1c082",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:24:36.034Z",
+                      "updatedAt": "2023-10-25T14:24:36.034Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "65392524b2df1c001e5047ff",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "65392524b2df1c001e5047f6",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:24:36.043Z",
+                    "updatedAt": "2023-10-25T14:24:36.043Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:24:36.051Z",
+                "updatedAt": "2023-10-25T14:24:36.051Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:24:36.063Z",
+            "updatedAt": "2023-10-25T14:24:36.063Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "65392524b2df1c001e50480f",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "65392524b2df1c001e504806",
+                "supersets": [
+                  {
+                    "_id": "65392524b2df1c001e5047fc",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "63af4d56e212c8001652dbe4",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [
+                        "In a seated position hold underneath your knee so your ankle is in the air. Perform 10 full rotations clockwise and 10 full rotations counter clockwise. Focus on trying to make the biggest circles you can with your toes."
+                      ],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "ankle cars",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/qyA1_QhDxPk",
+                      "preview_300": "https://img.youtube.com/vi/qyA1_QhDxPk/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/qyA1_QhDxPk/maxresdefault.jpg",
+                      "createdAt": "2022-12-30T20:43:02.211Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/qyA1_QhDxPk/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "attachment_id": null,
+                      "video_only": true,
+                      "search_title1": "ankle cars",
+                      "search_title2": "ac",
+                      "search_title3": "ankle cars",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:40.180Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "65392524b2df1c001e5047f7",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://www.youtube.com/watch?v=T1GgZ-Qxhyk",
+                      "exercise": "63af4d56e212c8001652dbe4",
+                      "title": "ankle cars",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:24:36.032Z",
+                      "updatedAt": "2023-10-25T14:24:36.032Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "65392524b2df1c001e5047fd",
+                        "reps": {
+                          "value": "10"
+                        },
+                        "duration": {
+                          "value": ""
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "65392524b2df1c001e5047f6",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:24:36.041Z",
+                    "updatedAt": "2023-10-25T14:24:36.041Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:24:36.051Z",
+                "updatedAt": "2023-10-25T14:24:36.051Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:24:36.063Z",
+            "updatedAt": "2023-10-25T14:24:36.063Z",
+            "__v": 0,
+            "records": []
+          }
+        ],
+        "title": "Mobility 1 (Ankles and Calves)",
+        "type": "regular",
+        "description": "",
+        "level": {
+          "item": {
+            "_id": "626bc8e08505500014baa788",
+            "name": "All"
+          },
+          "priority": 1
+        },
+        "duration": {
+          "item": {
+            "_id": "626bc8e08505500014baa793",
+            "name": "15 min"
+          },
+          "priority": 3
+        },
+        "labels": [],
+        "original_workout": "65392042be4311001e39a101",
+        "author": {
+          "_id": "63a4389b9993b10016e248b2",
+          "timezone": "America/Chicago",
+          "sex": "0",
+          "is_archived": false,
+          "email": "john@golfgains.fitness",
+          "profile_email": "john@golfgains.fitness",
+          "first_name": "John",
+          "last_name": "Irvine",
+          "full_name": "John Irvine",
+          "full_name_sort": "john irvine",
+          "is_trainer": true,
+          "trainers": [],
+          "sub_trainers": [],
+          "teams": [
+            {
+              "_id": "63a438b09993b10016e248ba",
+              "team": "63a438af9993b10016e248b9",
+              "role": 0
+            }
+          ],
+          "color": "#C49F9F",
+          "current_team": "63a438af9993b10016e248b9",
+          "firstLogin": "2022-12-22T11:00:00.434Z",
+          "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+          "account_id": "63a4389b9993b10016e248b2"
+        },
+        "team": "63a438af9993b10016e248b9",
+        "original_title": "Mobility 1 (Ankles and Calves)",
+        "share": 1,
+        "section_countdown": 10
+      }
+    },
+    {
+      "id": "6581d599cd2017001e14ed76",
+      "title": "Mobility 2 (Upper Leg)",
+      "type": "regular",
+      "background": null,
+      "level": "All",
+      "duration": "15 min",
+      "details": {
+        "_id": "6581d599cd2017001e14ed76",
+        "sections": [
+          {
+            "_id": "6539253629d00b001edd541f",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539253629d00b001edd541b",
+                "supersets": [
+                  {
+                    "_id": "6539253629d00b001edd5413",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "65392085a19284001e4bbae1",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [
+                        "Using a lax ball lie down and apply pressure to front of your upper hip. Roll the ball around and spend some extra time on the tight spots you may feel"
+                      ],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "category_type_name": "Timed",
+                      "title": "Front Hip Pocket Smash",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/-SnIOCibjVE",
+                      "preview_300": "https://img.youtube.com/vi/-SnIOCibjVE/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/-SnIOCibjVE/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:04:53.284Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/-SnIOCibjVE/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Front Hip Pocket Smash",
+                      "search_title2": "FHPS",
+                      "search_title3": "front hip pocket smash",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.531Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539253629d00b001edd5410",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [
+                        "Using a lax ball lie down and apply pressure to front of your upper hip. Roll the ball around and spend some extra time on the tight spots you may feel"
+                      ],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/-SnIOCibjVE",
+                      "title": "Front Hip Pocket Smash",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "exercise": "65392085a19284001e4bbae1",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:24:54.259Z",
+                      "updatedAt": "2023-10-25T14:24:54.259Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539253629d00b001edd5414",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539253629d00b001edd540e",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:24:54.269Z",
+                    "updatedAt": "2023-10-25T14:24:54.269Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:24:54.279Z",
+                "updatedAt": "2023-10-25T14:24:54.279Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:24:54.292Z",
+            "updatedAt": "2023-10-25T14:24:54.292Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "6539253629d00b001edd5420",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539253629d00b001edd541d",
+                "supersets": [
+                  {
+                    "_id": "6539253629d00b001edd5417",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "653920c6ef8160001f13b911",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [
+                        "Using a foam roller, lie down in a prone position and roll up/down and side to side along the entire quad and inner thigh areas.. If you feel any tight spots spend some extra time pinpointing those areas"
+                      ],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "category_type_name": "Timed",
+                      "title": "Full Quad and Adductor Smash",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/Ep9cOrVUFY0",
+                      "preview_300": "https://img.youtube.com/vi/Ep9cOrVUFY0/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/Ep9cOrVUFY0/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:05:58.751Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/Ep9cOrVUFY0/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Full Quad and Adductor Smash",
+                      "search_title2": "FQaAS",
+                      "search_title3": "full quad and adductor smash",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.531Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539253629d00b001edd5411",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [
+                        "Using a foam roller, lie down in a prone position and roll up/down and side to side along the entire quad and inner thigh areas.. If you feel any tight spots spend some extra time pinpointing those areas"
+                      ],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/Ep9cOrVUFY0",
+                      "title": "Full Quad and Adductor Smash",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "exercise": "653920c6ef8160001f13b911",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:24:54.262Z",
+                      "updatedAt": "2023-10-25T14:24:54.262Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539253629d00b001edd5418",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539253629d00b001edd540e",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:24:54.274Z",
+                    "updatedAt": "2023-10-25T14:24:54.274Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:24:54.282Z",
+                "updatedAt": "2023-10-25T14:24:54.282Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:24:54.292Z",
+            "updatedAt": "2023-10-25T14:24:54.292Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "6539253629d00b001edd5421",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539253629d00b001edd541c",
+                "supersets": [
+                  {
+                    "_id": "6539253629d00b001edd5415",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "63a8a085357ede0016fb7ce4",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [
+                        "Starting in a lunge position, lift and place your rear shin up against a solid surface. Once in posittion press your hips forward to feel stretch in quadriceps"
+                      ],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [
+                        "63a4bfdbcbaa61001a5e4c8c"
+                      ],
+                      "body_part": "Quadriceps",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "Couch Stretch",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/RlNLOmZQ4SM",
+                      "preview_300": "https://img.youtube.com/vi/RlNLOmZQ4SM/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/RlNLOmZQ4SM/maxresdefault.jpg",
+                      "createdAt": "2022-12-25T19:12:05.928Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/RlNLOmZQ4SM/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "attachment_id": null,
+                      "video_only": true,
+                      "search_title1": "Couch Stretch",
+                      "search_title2": "CS",
+                      "search_title3": "couch stretch",
+                      "migrate_custom_exercise_at": "2024-03-25T12:21:59.624Z",
+                      "modality": null,
+                      "movement_patterns": [],
+                      "muscle_groups": [
+                        {
+                          "is_primary": true,
+                          "muscle_group": {
+                            "_id": "66013f86b117d35345209b1c",
+                            "title": "Quads"
+                          }
+                        }
+                      ],
+                      "migrate_search_at": "2024-03-26T12:15:40.499Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539253629d00b001edd540f",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Quadriceps",
+                      "videoLink": "https://youtu.be/RlNLOmZQ4SM",
+                      "exercise": "63a8a085357ede0016fb7ce4",
+                      "title": "Couch Stretch",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:24:54.257Z",
+                      "updatedAt": "2023-10-25T14:24:54.257Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539253629d00b001edd5416",
+                        "reps": {
+                          "value": ""
+                        },
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539253629d00b001edd540e",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:24:54.271Z",
+                    "updatedAt": "2023-10-25T14:24:54.271Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:24:54.279Z",
+                "updatedAt": "2023-10-25T14:24:54.279Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:24:54.292Z",
+            "updatedAt": "2023-10-25T14:24:54.292Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "6539253629d00b001edd5422",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539253629d00b001edd541e",
+                "supersets": [
+                  {
+                    "_id": "6539253629d00b001edd5419",
+                    "alternatives": [],
+                    "each_side": false,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "6539214a773bb0001f8023fe",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "category_type_name": "Timed",
+                      "title": "Seated Straddle Forward Fold",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/vpZqnLjvvbs",
+                      "preview_300": "https://img.youtube.com/vi/vpZqnLjvvbs/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/vpZqnLjvvbs/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:08:10.773Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/vpZqnLjvvbs/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Seated Straddle Forward Fold",
+                      "search_title2": "SSFF",
+                      "search_title3": "seated straddle forward fold",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.462Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539253629d00b001edd5412",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/vpZqnLjvvbs",
+                      "title": "Seated Straddle Forward Fold",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "exercise": "6539214a773bb0001f8023fe",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:24:54.263Z",
+                      "updatedAt": "2023-10-25T14:24:54.263Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539253629d00b001edd541a",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539253629d00b001edd540e",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:24:54.277Z",
+                    "updatedAt": "2023-10-25T14:24:54.277Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:24:54.284Z",
+                "updatedAt": "2023-10-25T14:24:54.284Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:24:54.292Z",
+            "updatedAt": "2023-10-25T14:24:54.292Z",
+            "__v": 0,
+            "records": []
+          }
+        ],
+        "title": "Mobility 2 (Upper Leg)",
+        "type": "regular",
+        "description": "",
+        "level": {
+          "item": {
+            "_id": "626bc8e08505500014baa788",
+            "name": "All"
+          },
+          "priority": 1
+        },
+        "duration": {
+          "item": {
+            "_id": "626bc8e08505500014baa793",
+            "name": "15 min"
+          },
+          "priority": 3
+        },
+        "labels": [],
+        "original_workout": "6539216c660040001ef5269f",
+        "author": {
+          "_id": "63a4389b9993b10016e248b2",
+          "timezone": "America/Chicago",
+          "sex": "0",
+          "is_archived": false,
+          "email": "john@golfgains.fitness",
+          "profile_email": "john@golfgains.fitness",
+          "first_name": "John",
+          "last_name": "Irvine",
+          "full_name": "John Irvine",
+          "full_name_sort": "john irvine",
+          "is_trainer": true,
+          "trainers": [],
+          "sub_trainers": [],
+          "teams": [
+            {
+              "_id": "63a438b09993b10016e248ba",
+              "team": "63a438af9993b10016e248b9",
+              "role": 0
+            }
+          ],
+          "color": "#C49F9F",
+          "current_team": "63a438af9993b10016e248b9",
+          "firstLogin": "2022-12-22T11:00:00.434Z",
+          "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+          "account_id": "63a4389b9993b10016e248b2"
+        },
+        "team": "63a438af9993b10016e248b9",
+        "original_title": "Mobility 2 (Upper Leg)",
+        "share": 1,
+        "section_countdown": 10
+      }
+    },
+    {
+      "id": "6581d599cd2017001e14ed77",
+      "title": "Mobility 3 (Hips)",
+      "type": "regular",
+      "background": null,
+      "level": "All",
+      "duration": "15 min",
+      "details": {
+        "_id": "6581d599cd2017001e14ed77",
+        "sections": [
+          {
+            "_id": "65392541dc7b47001edfcf6c",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "65392541dc7b47001edfcf68",
+                "supersets": [
+                  {
+                    "_id": "65392541dc7b47001edfcf5e",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "653921a9b3af45001e478c7d",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "category_type_name": "Timed",
+                      "title": "Glute Smash",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/qMOvGkTOeLc",
+                      "preview_300": "https://img.youtube.com/vi/qMOvGkTOeLc/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/qMOvGkTOeLc/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:09:45.110Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/qMOvGkTOeLc/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Glute Smash",
+                      "search_title2": "GS",
+                      "search_title3": "glute smash",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.462Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "65392541dc7b47001edfcf57",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/qMOvGkTOeLc",
+                      "title": "Glute Smash",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "exercise": "653921a9b3af45001e478c7d",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:25:05.603Z",
+                      "updatedAt": "2023-10-25T14:25:05.603Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "65392541dc7b47001edfcf5f",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "65392541dc7b47001edfcf53",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:25:05.619Z",
+                    "updatedAt": "2023-10-25T14:25:05.619Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:25:05.628Z",
+                "updatedAt": "2023-10-25T14:25:05.628Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:25:05.641Z",
+            "updatedAt": "2023-10-25T14:25:05.641Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "65392541dc7b47001edfcf6d",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "65392541dc7b47001edfcf6a",
+                "supersets": [
+                  {
+                    "_id": "65392541dc7b47001edfcf64",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "653921e0ca47cb001e53ecd0",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "category_type_name": "Timed",
+                      "title": "Hamstring/IT Band Smash",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/bbM3gi2TzA8",
+                      "preview_300": "https://img.youtube.com/vi/bbM3gi2TzA8/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/bbM3gi2TzA8/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:10:40.808Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/bbM3gi2TzA8/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Hamstring IT Band Smash",
+                      "search_title2": "HIBS",
+                      "search_title3": "hamstring it band smash",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.462Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "65392541dc7b47001edfcf59",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/bbM3gi2TzA8",
+                      "title": "Hamstring/IT Band Smash",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "exercise": "653921e0ca47cb001e53ecd0",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:25:05.607Z",
+                      "updatedAt": "2023-10-25T14:25:05.607Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "65392541dc7b47001edfcf65",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "65392541dc7b47001edfcf53",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:25:05.625Z",
+                    "updatedAt": "2023-10-25T14:25:05.625Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:25:05.632Z",
+                "updatedAt": "2023-10-25T14:25:05.632Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:25:05.641Z",
+            "updatedAt": "2023-10-25T14:25:05.641Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "65392541dc7b47001edfcf6e",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "65392541dc7b47001edfcf67",
+                "supersets": [
+                  {
+                    "_id": "65392541dc7b47001edfcf5c",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "63b6e821dc1e5c00171a299f",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [
+                        "Using a towel between your legs, squeeze your thighs together while touching your toes. Do 10 reps slow and controlled with your toes elevated then perform 10 more with your heels elevetaed."
+                      ],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "towel squeeze toe touch",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtube.com/watch?v=0WhxGg74j9I",
+                      "preview_300": "https://img.youtube.com/vi/0WhxGg74j9I/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/0WhxGg74j9I/maxresdefault.jpg",
+                      "createdAt": "2023-01-05T15:09:21.780Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/0WhxGg74j9I/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "attachment_id": null,
+                      "video_only": true,
+                      "search_title1": "towel squeeze toe touch",
+                      "search_title2": "tstt",
+                      "search_title3": "towel squeeze toe touch",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:39.607Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "65392541dc7b47001edfcf55",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtube.com/watch?v=0WhxGg74j9I",
+                      "exercise": "63b6e821dc1e5c00171a299f",
+                      "title": "towel squeeze toe touch",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:25:05.600Z",
+                      "updatedAt": "2023-10-25T14:25:05.600Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "65392541dc7b47001edfcf5d",
+                        "reps": {
+                          "value": "10"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "65392541dc7b47001edfcf53",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:25:05.618Z",
+                    "updatedAt": "2023-10-25T14:25:05.618Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:25:05.628Z",
+                "updatedAt": "2023-10-25T14:25:05.628Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:25:05.641Z",
+            "updatedAt": "2023-10-25T14:25:05.641Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "65392541dc7b47001edfcf6f",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "65392541dc7b47001edfcf66",
+                "supersets": [
+                  {
+                    "_id": "65392541dc7b47001edfcf5a",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "653922a547e20f001e773e59",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [
+                        "Find a table top or any flat surface around hip height. Gently bend your knee and send your hips back like you are in a golf position. While maintaining this position internal rotate your hip closest to the table top."
+                      ],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "category_type_name": "Timed",
+                      "title": "Standing Assisted Internal Rotations",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtube.com/watch?v=6roN3vjREPE",
+                      "preview_300": "https://img.youtube.com/vi/6roN3vjREPE/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/6roN3vjREPE/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:13:57.576Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/6roN3vjREPE/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Standing Assisted Internal Rotations",
+                      "search_title2": "SAIR",
+                      "search_title3": "standing assisted internal rotations",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.462Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "65392541dc7b47001edfcf54",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [
+                        "Find a table top or any flat surface around hip height. Gently bend your knee and send your hips back like you are in a golf position. While maintaining this position internal rotate your hip closest to the table top."
+                      ],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtube.com/watch?v=6roN3vjREPE",
+                      "title": "Standing Assisted Internal Rotations",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "exercise": "653922a547e20f001e773e59",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:25:05.598Z",
+                      "updatedAt": "2023-10-25T14:25:05.598Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "65392541dc7b47001edfcf5b",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "65392541dc7b47001edfcf53",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:25:05.609Z",
+                    "updatedAt": "2023-10-25T14:25:05.609Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:25:05.626Z",
+                "updatedAt": "2023-10-25T14:25:05.626Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:25:05.641Z",
+            "updatedAt": "2023-10-25T14:25:05.641Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "65392541dc7b47001edfcf70",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "65392541dc7b47001edfcf6b",
+                "supersets": [
+                  {
+                    "_id": "65392541dc7b47001edfcf62",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "64aeaadc27f202001e1278dd",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "Worlds Greatest",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
+                      "preview_300": "https://img.youtube.com/vi/-CiWQ2IvY34/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/-CiWQ2IvY34/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-07-12T13:30:04.490Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/-CiWQ2IvY34/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Worlds Greatest",
+                      "search_title2": "WG",
+                      "search_title3": "worlds greatest",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:43.949Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "65392541dc7b47001edfcf56",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://www.youtube.com/watch?v=-CiWQ2IvY34",
+                      "title": "Worlds Greatest",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "exercise": "64aeaadc27f202001e1278dd",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:25:05.601Z",
+                      "updatedAt": "2023-10-25T14:25:05.601Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "65392541dc7b47001edfcf63",
+                        "reps": {
+                          "value": "10"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "65392541dc7b47001edfcf53",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:25:05.623Z",
+                    "updatedAt": "2023-10-25T14:25:05.623Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:25:05.633Z",
+                "updatedAt": "2023-10-25T14:25:05.633Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:25:05.641Z",
+            "updatedAt": "2023-10-25T14:25:05.641Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "65392541dc7b47001edfcf71",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "65392541dc7b47001edfcf69",
+                "supersets": [
+                  {
+                    "_id": "65392541dc7b47001edfcf60",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "63ac5309e62c1b00175066a3",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [
+                        "63a4bfdbcbaa61001a5e4c8c"
+                      ],
+                      "body_part": "Hip",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "90/90 Hip Rotations",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtube.com/watch?v=dpguDkCkVu0",
+                      "preview_300": "https://img.youtube.com/vi/dpguDkCkVu0/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/dpguDkCkVu0/hqdefault.jpg",
+                      "createdAt": "2022-12-28T14:30:33.541Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/dpguDkCkVu0/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "90 90 Hip Rotations",
+                      "search_title2": "99HR",
+                      "search_title3": "90 90 hip rotations",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:55.480Z",
+                      "modality": null,
+                      "movement_patterns": [],
+                      "muscle_groups": [
+                        {
+                          "is_primary": true,
+                          "muscle_group": {
+                            "_id": "66013f86b117d35345209b1d",
+                            "title": "Hip & Groin"
+                          }
+                        }
+                      ],
+                      "migrate_search_at": "2024-04-22T10:44:45.428Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "65392541dc7b47001edfcf58",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Hip",
+                      "videoLink": "https://youtube.com/watch?v=dpguDkCkVu0",
+                      "title": "90/90 Hip Rotations",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "exercise": "63ac5309e62c1b00175066a3",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:25:05.605Z",
+                      "updatedAt": "2023-10-25T14:25:05.605Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "65392541dc7b47001edfcf61",
+                        "reps": {
+                          "value": "10"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "65392541dc7b47001edfcf53",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:25:05.621Z",
+                    "updatedAt": "2023-10-25T14:25:05.621Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:25:05.630Z",
+                "updatedAt": "2023-10-25T14:25:05.630Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:25:05.642Z",
+            "updatedAt": "2023-10-25T14:25:05.642Z",
+            "__v": 0,
+            "records": []
+          }
+        ],
+        "title": "Mobility 3 (Hips)",
+        "type": "regular",
+        "description": "",
+        "level": {
+          "item": {
+            "_id": "626bc8e08505500014baa788",
+            "name": "All"
+          },
+          "priority": 1
+        },
+        "duration": {
+          "item": {
+            "_id": "626bc8e08505500014baa793",
+            "name": "15 min"
+          },
+          "priority": 3
+        },
+        "labels": [],
+        "original_workout": "653922f8b6bf2b001ecda6f0",
+        "author": {
+          "_id": "63a4389b9993b10016e248b2",
+          "timezone": "America/Chicago",
+          "sex": "0",
+          "is_archived": false,
+          "email": "john@golfgains.fitness",
+          "profile_email": "john@golfgains.fitness",
+          "first_name": "John",
+          "last_name": "Irvine",
+          "full_name": "John Irvine",
+          "full_name_sort": "john irvine",
+          "is_trainer": true,
+          "trainers": [],
+          "sub_trainers": [],
+          "teams": [
+            {
+              "_id": "63a438b09993b10016e248ba",
+              "team": "63a438af9993b10016e248b9",
+              "role": 0
+            }
+          ],
+          "color": "#C49F9F",
+          "current_team": "63a438af9993b10016e248b9",
+          "firstLogin": "2022-12-22T11:00:00.434Z",
+          "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+          "account_id": "63a4389b9993b10016e248b2"
+        },
+        "team": "63a438af9993b10016e248b9",
+        "original_title": "Mobility 3 (Hips)",
+        "share": 1,
+        "section_countdown": 10
+      }
+    },
+    {
+      "id": "6581d599cd2017001e14ed78",
+      "title": "Mobility 4 (Spine/Shoulders)",
+      "type": "regular",
+      "background": null,
+      "level": "All",
+      "duration": "15 min",
+      "details": {
+        "_id": "6581d599cd2017001e14ed78",
+        "sections": [
+          {
+            "_id": "6539257525cb87001ed59d4e",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539257525cb87001ed59d49",
+                "supersets": [
+                  {
+                    "_id": "6539257525cb87001ed59d3f",
+                    "alternatives": [],
+                    "each_side": false,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "641b18f70cce9d001f816eb3",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "t-spine opener with foam roller",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtube.com/watch?v=weCesOQvpAg",
+                      "preview_300": "https://img.youtube.com/vi/weCesOQvpAg/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/weCesOQvpAg/maxresdefault.jpg",
+                      "createdAt": "2023-03-22T15:04:23.619Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/weCesOQvpAg/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "attachment_id": null,
+                      "video_only": true,
+                      "search_title1": "t spine opener with foam roller",
+                      "search_title2": "tsowfr",
+                      "search_title3": "t spine opener with foam roller",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:44.758Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539257525cb87001ed59d3a",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtube.com/watch?v=weCesOQvpAg",
+                      "exercise": "641b18f70cce9d001f816eb3",
+                      "title": "t-spine opener with foam roller",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:25:57.901Z",
+                      "updatedAt": "2023-10-25T14:25:57.901Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539257525cb87001ed59d40",
+                        "reps": {
+                          "value": "15"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539257525cb87001ed59d39",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:25:57.908Z",
+                    "updatedAt": "2023-10-25T14:25:57.908Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:25:57.921Z",
+                "updatedAt": "2023-10-25T14:25:57.921Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:25:57.937Z",
+            "updatedAt": "2023-10-25T14:25:57.937Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "6539257525cb87001ed59d4f",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539257525cb87001ed59d4d",
+                "supersets": [
+                  {
+                    "_id": "6539257525cb87001ed59d45",
+                    "alternatives": [],
+                    "each_side": false,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "65392364ca47cb001e53ef05",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "category_type_name": "Timed",
+                      "title": "T-spine Foam Roll Side to Side Smash",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/hkweVrFlXpA",
+                      "preview_300": "https://img.youtube.com/vi/hkweVrFlXpA/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/hkweVrFlXpA/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:17:08.346Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/hkweVrFlXpA/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "T spine Foam Roll Side to Side Smash",
+                      "search_title2": "TsFRStSS",
+                      "search_title3": "t spine foam roll side to side smash",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.453Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539257525cb87001ed59d3d",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/hkweVrFlXpA",
+                      "title": "T-spine Foam Roll Side to Side Smash",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "exercise": "65392364ca47cb001e53ef05",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:25:57.905Z",
+                      "updatedAt": "2023-10-25T14:25:57.905Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539257525cb87001ed59d46",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539257525cb87001ed59d39",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:25:57.916Z",
+                    "updatedAt": "2023-10-25T14:25:57.916Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:25:57.926Z",
+                "updatedAt": "2023-10-25T14:25:57.926Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:25:57.937Z",
+            "updatedAt": "2023-10-25T14:25:57.937Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "6539257525cb87001ed59d50",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539257525cb87001ed59d4a",
+                "supersets": [
+                  {
+                    "_id": "6539257525cb87001ed59d41",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "63a4bfeeea9e1c0017c4c4b4",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [
+                        "63a4bfdbcbaa61001a5e4c8c"
+                      ],
+                      "body_part": "Middle Back",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "Side lying Wipers",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/QMMZEwOnvB8",
+                      "preview_300": "https://img.youtube.com/vi/QMMZEwOnvB8/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/QMMZEwOnvB8/hqdefault.jpg",
+                      "createdAt": "2022-12-22T20:37:02.217Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/QMMZEwOnvB8/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Side lying Wipers",
+                      "search_title2": "SlW",
+                      "search_title3": "side lying wipers",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:21.738Z",
+                      "modality": null,
+                      "movement_patterns": [],
+                      "muscle_groups": [
+                        {
+                          "is_primary": true,
+                          "muscle_group": {
+                            "_id": "66013f86b117d35345209b1b",
+                            "title": "Mid Back"
+                          }
+                        }
+                      ],
+                      "migrate_search_at": "2024-03-26T12:15:40.669Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539257525cb87001ed59d3b",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Middle Back",
+                      "videoLink": "https://youtu.be/QMMZEwOnvB8",
+                      "title": "Side lying Wipers",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "exercise": "63a4bfeeea9e1c0017c4c4b4",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:25:57.902Z",
+                      "updatedAt": "2023-10-25T14:25:57.902Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539257525cb87001ed59d42",
+                        "reps": {
+                          "value": "10"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539257525cb87001ed59d39",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:25:57.912Z",
+                    "updatedAt": "2023-10-25T14:25:57.912Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:25:57.921Z",
+                "updatedAt": "2023-10-25T14:25:57.921Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:25:57.938Z",
+            "updatedAt": "2023-10-25T14:25:57.938Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "6539257525cb87001ed59d51",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539257525cb87001ed59d4b",
+                "supersets": [
+                  {
+                    "_id": "6539257525cb87001ed59d43",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "63bcd02ed37b5500188e74e2",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "body weight archer rows",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtube.com/watch?v=8LnvLx2ZUeE",
+                      "preview_300": "https://img.youtube.com/vi/8LnvLx2ZUeE/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/8LnvLx2ZUeE/hqdefault.jpg",
+                      "createdAt": "2023-01-10T02:40:46.591Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/8LnvLx2ZUeE/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "body weight archer rows",
+                      "search_title2": "bwar",
+                      "search_title3": "body weight archer rows",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:43.028Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539257525cb87001ed59d3c",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtube.com/watch?v=8LnvLx2ZUeE",
+                      "title": "body weight archer rows",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "exercise": "63bcd02ed37b5500188e74e2",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:25:57.903Z",
+                      "updatedAt": "2023-10-25T14:25:57.903Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539257525cb87001ed59d44",
+                        "reps": {
+                          "value": "10"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539257525cb87001ed59d39",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:25:57.914Z",
+                    "updatedAt": "2023-10-25T14:25:57.914Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:25:57.925Z",
+                "updatedAt": "2023-10-25T14:25:57.925Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:25:57.938Z",
+            "updatedAt": "2023-10-25T14:25:57.938Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "6539257525cb87001ed59d52",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539257525cb87001ed59d4c",
+                "supersets": [
+                  {
+                    "_id": "6539257525cb87001ed59d47",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "653923d4156029001da39d92",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [
+                        "With your hips up and your arms pits to the ground, focus on extending your upper back. You can also reach diagonally to isolate your lats on each arm. Hold all three positions for 60 seconds"
+                      ],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "category_type_name": "Timed",
+                      "title": "Child's Pose With Shoulder Variations",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/EQmZJ9IMl6c",
+                      "preview_300": "https://img.youtube.com/vi/EQmZJ9IMl6c/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/EQmZJ9IMl6c/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:19:00.401Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/EQmZJ9IMl6c/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Child s Pose With Shoulder Variations",
+                      "search_title2": "CsPWSV",
+                      "search_title3": "child s pose with shoulder variations",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.453Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539257525cb87001ed59d3e",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [
+                        "With your hips up and your arms pits to the ground, focus on extending your upper back. You can also reach diagonally to isolate your lats on each arm. Hold all three positions for 60 seconds"
+                      ],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/EQmZJ9IMl6c",
+                      "title": "Child's Pose With Shoulder Variations",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "exercise": "653923d4156029001da39d92",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:25:57.906Z",
+                      "updatedAt": "2023-10-25T14:25:57.906Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539257525cb87001ed59d48",
+                        "duration": {
+                          "value": "60"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539257525cb87001ed59d39",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:25:57.918Z",
+                    "updatedAt": "2023-10-25T14:25:57.918Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:25:57.926Z",
+                "updatedAt": "2023-10-25T14:25:57.926Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:25:57.938Z",
+            "updatedAt": "2023-10-25T14:25:57.938Z",
+            "__v": 0,
+            "records": []
+          }
+        ],
+        "title": "Mobility 4 (Spine/Shoulders)",
+        "type": "regular",
+        "description": "",
+        "level": {
+          "item": {
+            "_id": "626bc8e08505500014baa788",
+            "name": "All"
+          },
+          "priority": 1
+        },
+        "duration": {
+          "item": {
+            "_id": "626bc8e08505500014baa793",
+            "name": "15 min"
+          },
+          "priority": 3
+        },
+        "labels": [],
+        "original_workout": "653923e404f889001e7981b8",
+        "author": {
+          "_id": "63a4389b9993b10016e248b2",
+          "timezone": "America/Chicago",
+          "sex": "0",
+          "is_archived": false,
+          "email": "john@golfgains.fitness",
+          "profile_email": "john@golfgains.fitness",
+          "first_name": "John",
+          "last_name": "Irvine",
+          "full_name": "John Irvine",
+          "full_name_sort": "john irvine",
+          "is_trainer": true,
+          "trainers": [],
+          "sub_trainers": [],
+          "teams": [
+            {
+              "_id": "63a438b09993b10016e248ba",
+              "team": "63a438af9993b10016e248b9",
+              "role": 0
+            }
+          ],
+          "color": "#C49F9F",
+          "current_team": "63a438af9993b10016e248b9",
+          "firstLogin": "2022-12-22T11:00:00.434Z",
+          "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+          "account_id": "63a4389b9993b10016e248b2"
+        },
+        "team": "63a438af9993b10016e248b9",
+        "original_title": "Mobility 4 (Spine and Shoulders)",
+        "share": 1,
+        "section_countdown": 10
+      }
+    },
+    {
+      "id": "6581d599cd2017001e14ed79",
+      "title": "Mobility 5 (Neck/Shoulders)",
+      "type": "regular",
+      "background": null,
+      "level": "All",
+      "duration": "15 min",
+      "details": {
+        "_id": "6581d599cd2017001e14ed79",
+        "sections": [
+          {
+            "_id": "6539258747e20f001e7741b0",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539258747e20f001e7741ab",
+                "supersets": [
+                  {
+                    "_id": "6539258747e20f001e7741a1",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "6539241a825c15001e93b011",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "category_type_name": "Timed",
+                      "title": "External Rotator Smash",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/ViPDyLcEEwU",
+                      "preview_300": "https://img.youtube.com/vi/ViPDyLcEEwU/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/ViPDyLcEEwU/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:20:10.910Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/ViPDyLcEEwU/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "External Rotator Smash",
+                      "search_title2": "ERS",
+                      "search_title3": "external rotator smash",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.449Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539258747e20f001e77419c",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/ViPDyLcEEwU",
+                      "title": "External Rotator Smash",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "exercise": "6539241a825c15001e93b011",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:26:15.406Z",
+                      "updatedAt": "2023-10-25T14:26:15.406Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539258747e20f001e7741a2",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539258747e20f001e77419b",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:26:15.413Z",
+                    "updatedAt": "2023-10-25T14:26:15.413Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:26:15.426Z",
+                "updatedAt": "2023-10-25T14:26:15.426Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:26:15.442Z",
+            "updatedAt": "2023-10-25T14:26:15.442Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "6539258747e20f001e7741b1",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539258747e20f001e7741ad",
+                "supersets": [
+                  {
+                    "_id": "6539258747e20f001e7741a5",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "65392445a5eef8001e07e964",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "category_type_name": "Timed",
+                      "title": "Internal Rotator Smash",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/D5qxxDoh3ZI",
+                      "preview_300": "https://img.youtube.com/vi/D5qxxDoh3ZI/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/D5qxxDoh3ZI/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:20:53.588Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/D5qxxDoh3ZI/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Internal Rotator Smash",
+                      "search_title2": "IRS",
+                      "search_title3": "internal rotator smash",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.448Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539258747e20f001e7741a0",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/D5qxxDoh3ZI",
+                      "title": "Internal Rotator Smash",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "exercise": "65392445a5eef8001e07e964",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:26:15.411Z",
+                      "updatedAt": "2023-10-25T14:26:15.411Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539258747e20f001e7741a6",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539258747e20f001e77419b",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:26:15.420Z",
+                    "updatedAt": "2023-10-25T14:26:15.420Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:26:15.430Z",
+                "updatedAt": "2023-10-25T14:26:15.430Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:26:15.442Z",
+            "updatedAt": "2023-10-25T14:26:15.442Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "6539258747e20f001e7741b2",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539258747e20f001e7741ae",
+                "supersets": [
+                  {
+                    "_id": "6539258747e20f001e7741a9",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "65392476b3af45001e478f42",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "Cervical Stars",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/qXFE4Smyyjg",
+                      "preview_300": "https://img.youtube.com/vi/qXFE4Smyyjg/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/qXFE4Smyyjg/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:21:42.963Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/qXFE4Smyyjg/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Cervical Stars",
+                      "search_title2": "CS",
+                      "search_title3": "cervical stars",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.431Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539258747e20f001e77419f",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/qXFE4Smyyjg",
+                      "title": "Cervical Stars",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "exercise": "65392476b3af45001e478f42",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:26:15.410Z",
+                      "updatedAt": "2023-10-25T14:26:15.410Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539258747e20f001e7741aa",
+                        "reps": {
+                          "value": "10"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539258747e20f001e77419b",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:26:15.423Z",
+                    "updatedAt": "2023-10-25T14:26:15.423Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:26:15.432Z",
+                "updatedAt": "2023-10-25T14:26:15.432Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:26:15.442Z",
+            "updatedAt": "2023-10-25T14:26:15.442Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "6539258747e20f001e7741b3",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539258747e20f001e7741ac",
+                "supersets": [
+                  {
+                    "_id": "6539258747e20f001e7741a3",
+                    "alternatives": [],
+                    "each_side": false,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "653924a9be4311001e39a576",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [
+                        "While lying on your side, take you arm closest to the ground in a 90 degree position. Gently apply pressure using your opposite arm until you feel a stretch"
+                      ],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "category_type_name": "Timed",
+                      "title": "Shoulder Internal Rotation Stretch",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/5aHmy73OtIs",
+                      "preview_300": "https://img.youtube.com/vi/5aHmy73OtIs/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/5aHmy73OtIs/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:22:33.329Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/5aHmy73OtIs/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Shoulder Internal Rotation Stretch",
+                      "search_title2": "SIRS",
+                      "search_title3": "shoulder internal rotation stretch",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.431Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539258747e20f001e77419e",
+                      "fields": [
+                        "5cd912bb19ae01d22ea76006",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [
+                        "While lying on your side, take you arm closest to the ground in a 90 degree position. Gently apply pressure using your opposite arm until you feel a stretch"
+                      ],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/5aHmy73OtIs",
+                      "title": "Shoulder Internal Rotation Stretch",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76016",
+                      "exercise": "653924a9be4311001e39a576",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:26:15.409Z",
+                      "updatedAt": "2023-10-25T14:26:15.409Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539258747e20f001e7741a4",
+                        "duration": {
+                          "value": "90"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539258747e20f001e77419b",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:26:15.418Z",
+                    "updatedAt": "2023-10-25T14:26:15.418Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:26:15.426Z",
+                "updatedAt": "2023-10-25T14:26:15.426Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:26:15.442Z",
+            "updatedAt": "2023-10-25T14:26:15.442Z",
+            "__v": 0,
+            "records": []
+          },
+          {
+            "_id": "6539258747e20f001e7741b4",
+            "type": "hidden",
+            "format": "regular",
+            "exercises": [
+              {
+                "_id": "6539258747e20f001e7741af",
+                "supersets": [
+                  {
+                    "_id": "6539258747e20f001e7741a7",
+                    "alternatives": [],
+                    "each_side": true,
+                    "records_history": [],
+                    "exercise": {
+                      "_id": "653924d7624374001eebb501",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "share": 0,
+                      "picture": [],
+                      "instructions": [],
+                      "popularity": 0,
+                      "custom": true,
+                      "from_everfit": false,
+                      "tags": [],
+                      "body_part": "Movement Prep",
+                      "author": "63a4389b9993b10016e248b2",
+                      "author_name": "John Irvine",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "category_type_name": "Bodyweight",
+                      "title": "Behind The Back Reaches",
+                      "link": "",
+                      "video": "",
+                      "videoLink": "https://youtu.be/fImcFGRZ16g",
+                      "preview_300": "https://img.youtube.com/vi/fImcFGRZ16g/hqdefault.jpg",
+                      "thumbnail_url": "https://img.youtube.com/vi/fImcFGRZ16g/maxresdefault.jpg",
+                      "team": "63a438af9993b10016e248b9",
+                      "video_only": true,
+                      "createdAt": "2023-10-25T14:23:19.562Z",
+                      "updatedAt": "2025-04-29T12:59:14.522Z",
+                      "__v": 0,
+                      "preview_50": "https://img.youtube.com/vi/fImcFGRZ16g/default.jpg",
+                      "thumbnail_height": null,
+                      "thumbnail_url_with_play_button": "",
+                      "thumbnail_width": null,
+                      "search_title1": "Behind The Back Reaches",
+                      "search_title2": "BTBR",
+                      "search_title3": "behind the back reaches",
+                      "migrate_custom_exercise_at": "2024-03-25T12:22:15.125Z",
+                      "modality": {
+                        "_id": "66013e83b117d35345209aff",
+                        "title": "Activation"
+                      },
+                      "movement_patterns": [],
+                      "muscle_groups": [],
+                      "migrate_search_at": "2024-03-26T12:15:46.430Z",
+                      "search_synonym": null
+                    },
+                    "tempo": "0",
+                    "exercise_instance": {
+                      "_id": "6539258747e20f001e77419d",
+                      "fields": [
+                        "5cd912bb19ae01d22ea7600b",
+                        "5cd912bb19ae01d22ea76011"
+                      ],
+                      "picture": [],
+                      "instructions": [],
+                      "body_part": "Movement Prep",
+                      "videoLink": "https://youtu.be/fImcFGRZ16g",
+                      "title": "Behind The Back Reaches",
+                      "link": "",
+                      "video": "",
+                      "category_type": "5cd912c319ae01d22ea76013",
+                      "exercise": "653924d7624374001eebb501",
+                      "__v": 0,
+                      "createdAt": "2023-10-25T14:26:15.407Z",
+                      "updatedAt": "2023-10-25T14:26:15.407Z"
+                    },
+                    "training_sets": [
+                      {
+                        "is_completed": false,
+                        "_id": "6539258747e20f001e7741a8",
+                        "reps": {
+                          "value": "10"
+                        },
+                        "rest": {
+                          "value": ""
+                        }
+                      }
+                    ],
+                    "user": "63a4389b9993b10016e248b2",
+                    "container": "on_demand_workout_library_item",
+                    "link": "6539258747e20f001e77419b",
+                    "type": "on_demand_workout_library_item",
+                    "parent_section_type": "hidden",
+                    "__v": 0,
+                    "createdAt": "2023-10-25T14:26:15.422Z",
+                    "updatedAt": "2023-10-25T14:26:15.422Z"
+                  }
+                ],
+                "user": "63a4389b9993b10016e248b2",
+                "createdAt": "2023-10-25T14:26:15.432Z",
+                "updatedAt": "2023-10-25T14:26:15.432Z",
+                "__v": 0
+              }
+            ],
+            "exercise_references": [],
+            "user": "63a4389b9993b10016e248b2",
+            "attachments": [],
+            "createdAt": "2023-10-25T14:26:15.442Z",
+            "updatedAt": "2023-10-25T14:26:15.442Z",
+            "__v": 0,
+            "records": []
+          }
+        ],
+        "title": "Mobility 5 (Neck/Shoulders)",
+        "type": "regular",
+        "description": "",
+        "level": {
+          "item": {
+            "_id": "626bc8e08505500014baa788",
+            "name": "All"
+          },
+          "priority": 1
+        },
+        "duration": {
+          "item": {
+            "_id": "626bc8e08505500014baa793",
+            "name": "15 min"
+          },
+          "priority": 3
+        },
+        "labels": [],
+        "original_workout": "653924e347e20f001e774124",
+        "author": {
+          "_id": "63a4389b9993b10016e248b2",
+          "timezone": "America/Chicago",
+          "sex": "0",
+          "is_archived": false,
+          "email": "john@golfgains.fitness",
+          "profile_email": "john@golfgains.fitness",
+          "first_name": "John",
+          "last_name": "Irvine",
+          "full_name": "John Irvine",
+          "full_name_sort": "john irvine",
+          "is_trainer": true,
+          "trainers": [],
+          "sub_trainers": [],
+          "teams": [
+            {
+              "_id": "63a438b09993b10016e248ba",
+              "team": "63a438af9993b10016e248b9",
+              "role": 0
+            }
+          ],
+          "color": "#C49F9F",
+          "current_team": "63a438af9993b10016e248b9",
+          "firstLogin": "2022-12-22T11:00:00.434Z",
+          "avatar": "https://everfit-avatar.s3.us-west-1.amazonaws.com/images/1674081636704-4624f14f-4318-49dd-9e1b-ee4cd777310e.jpeg",
+          "account_id": "63a4389b9993b10016e248b2"
+        },
+        "team": "63a438af9993b10016e248b9",
+        "original_title": "Mobility 5 (Neck and Shoulders)",
+        "share": 1,
+        "section_countdown": 10
+      }
+    }
+  ]
+}
